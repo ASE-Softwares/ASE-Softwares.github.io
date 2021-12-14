@@ -1,0 +1,7259 @@
+counties: [{
+    id: 1,
+    name: "Baringo County",
+    region: 1
+}, {
+    id: 2,
+    name: "Bomet County",
+    region: 2
+}, {
+    id: 3,
+    name: "Bungoma County",
+    region: 3
+}, {
+    id: 4,
+    name: "Busia County",
+    region: 3
+}, {
+    id: 5,
+    name: "Elgeyo Marakwet County",
+    region: 1
+}, {
+    id: 6,
+    name: "Embu County",
+    region: 4
+}, {
+    id: 7,
+    name: "Garissa County",
+    region: 5
+}, {
+    id: 8,
+    name: "Homa Bay County",
+    region: 6
+}, {
+    id: 9,
+    name: "Isiolo County",
+    region: 7
+}, {
+    id: 10,
+    name: "Kajiado County",
+    region: 8
+}, {
+    id: 11,
+    name: "Kakamega County",
+    region: 3
+}, {
+    id: 12,
+    name: "Kericho County",
+    region: 2
+}, {
+    id: 13,
+    name: "Kiambu County",
+    region: 8
+}, {
+    id: 14,
+    name: "Kilifi County",
+    region: 9
+}, {
+    id: 15,
+    name: "Kirinyaga County",
+    region: 4
+}, {
+    id: 16,
+    name: "Kisii County",
+    region: 6
+}, {
+    id: 17,
+    name: "Kisumu County",
+    region: 6
+}, {
+    id: 18,
+    name: "Kitui County",
+    region: 8
+}, {
+    id: 19,
+    name: "Kwale County",
+    region: 9
+}, {
+    id: 20,
+    name: "Laikipia County",
+    region: 4
+}, {
+    id: 21,
+    name: "Lamu County",
+    region: 9
+}, {
+    id: 22,
+    name: "Machakos County",
+    region: 8
+}, {
+    id: 23,
+    name: "Makueni County",
+    region: 8
+}, {
+    id: 24,
+    name: "Mandera County",
+    region: 10
+}, {
+    id: 25,
+    name: "Marsabit County",
+    region: 7
+}, {
+    id: 26,
+    name: "Meru County",
+    region: 7
+}, {
+    id: 27,
+    name: "Migori County",
+    region: 6
+}, {
+    id: 28,
+    name: "Mombasa County",
+    region: 9
+}, {
+    id: 29,
+    name: "Muranga County",
+    region: 8
+}, {
+    id: 30,
+    name: "Nairobi County",
+    region: 8
+}, {
+    id: 31,
+    name: "Nakuru County",
+    region: 2
+}, {
+    id: 32,
+    name: "Nandi County",
+    region: 1
+}, {
+    id: 33,
+    name: "Narok County",
+    region: 8
+}, {
+    id: 34,
+    name: "Nyamira County",
+    region: 6
+}, {
+    id: 35,
+    name: "Nyandarua County",
+    region: 2
+}, {
+    id: 36,
+    name: "Nyeri County",
+    region: 4
+}, {
+    id: 37,
+    name: "Samburu County",
+    region: 2
+}, {
+    id: 38,
+    name: "Siaya County",
+    region: 6
+}, {
+    id: 39,
+    name: "Taita Taveta County",
+    region: 9
+}, {
+    id: 40,
+    name: "Tana River County",
+    region: 9
+}, {
+    id: 41,
+    name: "Tharaka Nithi County",
+    region: 7
+}, {
+    id: 42,
+    name: "Trans Nzoia County",
+    region: 1
+}, {
+    id: 43,
+    name: "Turkana County",
+    region: 11
+}, {
+    id: 44,
+    name: "Uasin Gishu County",
+    region: 1
+}, {
+    id: 45,
+    name: "Vihiga County",
+    region: 3
+}, {
+    id: 46,
+    name: "Wajir County",
+    region: 12
+}, {
+    id: 47,
+    name: "West Pokot County",
+    region: 1
+}],
+    sub_counties: [{
+        id: 1,
+        name: "Baringo Central Sub County",
+        county: 1
+    }, {
+        id: 2,
+        name: "Baringo North Sub County",
+        county: 1
+    }, {
+        id: 3,
+        name: "East Pokot Sub County",
+        county: 1
+    }, {
+        id: 4,
+        name: "Koibatek Sub County",
+        county: 1
+    }, {
+        id: 5,
+        name: "Marigat Sub County",
+        county: 1
+    }, {
+        id: 6,
+        name: "Mogotio Sub County",
+        county: 1
+    }, {
+        id: 8,
+        name: "Bomet Central Sub County",
+        county: 2
+    }, {
+        id: 9,
+        name: "Bomet East Sub County",
+        county: 2
+    }, {
+        id: 10,
+        name: "Chepalungu Sub County",
+        county: 2
+    }, {
+        id: 11,
+        name: "Konoin Sub County",
+        county: 2
+    }, {
+        id: 12,
+        name: "Sotik Sub County",
+        county: 2
+    }, {
+        id: 13,
+        name: "Bumula Sub County",
+        county: 3
+    }, {
+        id: 14,
+        name: "Cheptais Sub County",
+        county: 3
+    }, {
+        id: 17,
+        name: "Kimilili Sub County",
+        county: 3
+    }, {
+        id: 18,
+        name: "Mt Elgon Sub County",
+        county: 3
+    }, {
+        id: 21,
+        name: "Webuye East Sub County",
+        county: 3
+    }, {
+        id: 22,
+        name: "Webuye West Sub County",
+        county: 3
+    }, {
+        id: 23,
+        name: "Bunyala Sub County",
+        county: 4
+    }, {
+        id: 24,
+        name: "Butula Sub County",
+        county: 4
+    }, {
+        id: 25,
+        name: "Matayos Sub County",
+        county: 4
+    }, {
+        id: 26,
+        name: "Nambale Sub County",
+        county: 4
+    }, {
+        id: 27,
+        name: "Samia Sub County",
+        county: 4
+    }, {
+        id: 28,
+        name: "Teso North Sub County",
+        county: 4
+    }, {
+        id: 29,
+        name: "Teso South Sub County",
+        county: 4
+    }, {
+        id: 30,
+        name: "Keiyo North Sub County",
+        county: 5
+    }, {
+        id: 31,
+        name: "Keiyo South Sub County",
+        county: 5
+    }, {
+        id: 32,
+        name: "Marakwet East Sub County",
+        county: 5
+    }, {
+        id: 33,
+        name: "Marakwet West Sub County",
+        county: 5
+    }, {
+        id: 34,
+        name: "Manyatta Sub County",
+        county: 6
+    }, {
+        id: 35,
+        name: "Mbeere North Sub County",
+        county: 6
+    }, {
+        id: 36,
+        name: "Mbeere South Sub County",
+        county: 6
+    }, {
+        id: 37,
+        name: "Runyenjes Sub County",
+        county: 6
+    }, {
+        id: 38,
+        name: "Balambala Sub County",
+        county: 7
+    }, {
+        id: 39,
+        name: "Dadaab Sub County",
+        county: 7
+    }, {
+        id: 40,
+        name: "Fafi Sub County",
+        county: 7
+    }, {
+        id: 42,
+        name: "Hulugho Sub County",
+        county: 7
+    }, {
+        id: 43,
+        name: "Ijara Sub County",
+        county: 7
+    }, {
+        id: 44,
+        name: "Lagdera Sub County",
+        county: 7
+    }, {
+        id: 45,
+        name: "Homa Bay Town Sub County",
+        county: 8
+    }, {
+        id: 46,
+        name: "Kabondo Kasipul Sub County",
+        county: 8
+    }, {
+        id: 48,
+        name: "Mbita Sub County",
+        county: 8
+    }, {
+        id: 49,
+        name: "Ndhiwa Sub County",
+        county: 8
+    }, {
+        id: 50,
+        name: "Rachuonyo South Sub County",
+        county: 8
+    }, {
+        id: 51,
+        name: "Rangwe Sub County",
+        county: 8
+    }, {
+        id: 52,
+        name: "Suba South Sub County",
+        county: 8
+    }, {
+        id: 53,
+        name: "Garbatulla Sub County",
+        county: 9
+    }, {
+        id: 54,
+        name: "Isiolo Sub County",
+        county: 9
+    }, {
+        id: 55,
+        name: "Merti Sub County",
+        county: 9
+    }, {
+        id: 56,
+        name: "Kajiado Central Sub County",
+        county: 10
+    }, {
+        id: 57,
+        name: "Kajiado East Sub County",
+        county: 10
+    }, {
+        id: 58,
+        name: "Kajiado North Sub County",
+        county: 10
+    }, {
+        id: 59,
+        name: "Kajiado West Sub County",
+        county: 10
+    }, {
+        id: 60,
+        name: "Loitokitok Sub County",
+        county: 10
+    }, {
+        id: 61,
+        name: "Butere Sub County",
+        county: 11
+    }, {
+        id: 62,
+        name: "Ikolomani Sub County",
+        county: 11
+    }, {
+        id: 63,
+        name: "Khwisero Sub County",
+        county: 11
+    }, {
+        id: 64,
+        name: "Likuyani Sub County",
+        county: 11
+    }, {
+        id: 65,
+        name: "Lugari Sub County",
+        county: 11
+    }, {
+        id: 66,
+        name: "Lurambi Sub County",
+        county: 11
+    }, {
+        id: 67,
+        name: "Malava Sub County",
+        county: 11
+    }, {
+        id: 68,
+        name: "Matungu Sub County",
+        county: 11
+    }, {
+        id: 69,
+        name: "Mumias East Sub County",
+        county: 11
+    }, {
+        id: 70,
+        name: "Mumias West Sub County",
+        county: 11
+    }, {
+        id: 71,
+        name: "Navakholo Sub County",
+        county: 11
+    }, {
+        id: 72,
+        name: "Shinyalu Sub County",
+        county: 11
+    }, {
+        id: 73,
+        name: "Ainamoi Sub County",
+        county: 12
+    }, {
+        id: 74,
+        name: "Belgut Sub County",
+        county: 12
+    }, {
+        id: 75,
+        name: "Bureti Sub County",
+        county: 12
+    }, {
+        id: 76,
+        name: "Kipkelion East Sub County",
+        county: 12
+    }, {
+        id: 77,
+        name: "Kipkelion West Sub County",
+        county: 12
+    }, {
+        id: 78,
+        name: "Sigowet/Soin Sub County",
+        county: 12
+    }, {
+        id: 79,
+        name: "Gatundu North Sub County",
+        county: 13
+    }, {
+        id: 80,
+        name: "Gatundu South Sub County",
+        county: 13
+    }, {
+        id: 81,
+        name: "Githunguri Sub County",
+        county: 13
+    }, {
+        id: 82,
+        name: "Juja Sub County",
+        county: 13
+    }, {
+        id: 83,
+        name: "Kabete Sub County",
+        county: 13
+    }, {
+        id: 84,
+        name: "Kiambaa Sub County",
+        county: 13
+    }, {
+        id: 85,
+        name: "Kiambu Town Sub County",
+        county: 13
+    }, {
+        id: 86,
+        name: "Kikuyu Sub County",
+        county: 13
+    }, {
+        id: 87,
+        name: "Lari Sub County",
+        county: 13
+    }, {
+        id: 88,
+        name: "Limuru Sub County",
+        county: 13
+    }, {
+        id: 89,
+        name: "Ruiru Sub County",
+        county: 13
+    }, {
+        id: 90,
+        name: "Thika Town Sub County",
+        county: 13
+    }, {
+        id: 91,
+        name: "Ganze Sub County",
+        county: 14
+    }, {
+        id: 92,
+        name: "Kaloleni Sub County",
+        county: 14
+    }, {
+        id: 93,
+        name: "Kilifi North Sub County",
+        county: 14
+    }, {
+        id: 94,
+        name: "Kilifi South Sub County",
+        county: 14
+    }, {
+        id: 95,
+        name: "Magarini Sub County",
+        county: 14
+    }, {
+        id: 96,
+        name: "Malindi Sub County",
+        county: 14
+    }, {
+        id: 97,
+        name: "Rabai Sub County",
+        county: 14
+    }, {
+        id: 98,
+        name: "Kirinyaga Central Sub County",
+        county: 15
+    }, {
+        id: 99,
+        name: "Kirinyaga East Sub County",
+        county: 15
+    }, {
+        id: 100,
+        name: "Kirinyaga North/Mwea West Sub County",
+        county: 15
+    }, {
+        id: 101,
+        name: "Kirinyaga South Sub County",
+        county: 15
+    }, {
+        id: 102,
+        name: "Kirinyaga West Sub County",
+        county: 15
+    }, {
+        id: 103,
+        name: "Bobasi Sub County",
+        county: 16
+    }, {
+        id: 104,
+        name: "Bomachoge Borabu Sub County",
+        county: 16
+    }, {
+        id: 105,
+        name: "Bomachoge Chache Sub County",
+        county: 16
+    }, {
+        id: 106,
+        name: "Bonchari Sub County",
+        county: 16
+    }, {
+        id: 107,
+        name: "Kitutu Chache North Sub County",
+        county: 16
+    }, {
+        id: 108,
+        name: "Kitutu Chache South Sub County",
+        county: 16
+    }, {
+        id: 109,
+        name: "Nyaribari Chache Sub County",
+        county: 16
+    }, {
+        id: 110,
+        name: "Nyaribari Masaba Sub County",
+        county: 16
+    }, {
+        id: 111,
+        name: "South Mugirango Sub County",
+        county: 16
+    }, {
+        id: 112,
+        name: "Kisumu Central Sub County",
+        county: 17
+    }, {
+        id: 113,
+        name: "Kisumu East Sub County",
+        county: 17
+    }, {
+        id: 114,
+        name: "Kisumu West Sub County",
+        county: 17
+    }, {
+        id: 115,
+        name: "Muhoroni Sub County",
+        county: 17
+    }, {
+        id: 116,
+        name: "Nyakach Sub County",
+        county: 17
+    }, {
+        id: 117,
+        name: "Nyando Sub County",
+        county: 17
+    }, {
+        id: 118,
+        name: "Seme Sub County",
+        county: 17
+    }, {
+        id: 119,
+        name: "Kitui Central Sub County",
+        county: 18
+    }, {
+        id: 120,
+        name: "Kitui East Sub County",
+        county: 18
+    }, {
+        id: 121,
+        name: "Kitui Rural Sub County",
+        county: 18
+    }, {
+        id: 122,
+        name: "Kitui South Sub County",
+        county: 18
+    }, {
+        id: 123,
+        name: "Kitui West Sub County",
+        county: 18
+    }, {
+        id: 124,
+        name: "Mwingi Central Sub County",
+        county: 18
+    }, {
+        id: 125,
+        name: "Mwingi North Sub County",
+        county: 18
+    }, {
+        id: 126,
+        name: "Mwingi West Sub County",
+        county: 18
+    }, {
+        id: 127,
+        name: "Kinango Sub County",
+        county: 19
+    }, {
+        id: 128,
+        name: "Lunga Lunga Sub County",
+        county: 19
+    }, {
+        id: 129,
+        name: "Matuga Sub County",
+        county: 19
+    }, {
+        id: 130,
+        name: "Msambweni Sub County",
+        county: 19
+    }, {
+        id: 131,
+        name: "Laikipia East Sub County",
+        county: 20
+    }, {
+        id: 7,
+        name: "Tiaty East Sub County",
+        county: 1
+    }, {
+        id: 132,
+        name: "Laikipia North Sub County",
+        county: 20
+    }, {
+        id: 133,
+        name: "Laikipia West Sub County",
+        county: 20
+    }, {
+        id: 136,
+        name: "Athi River Sub County",
+        county: 22
+    }, {
+        id: 137,
+        name: "Kalama Sub County",
+        county: 22
+    }, {
+        id: 138,
+        name: "Kangundo Sub County",
+        county: 22
+    }, {
+        id: 139,
+        name: "Kathiani Sub County",
+        county: 22
+    }, {
+        id: 141,
+        name: "Masinga Sub County",
+        county: 22
+    }, {
+        id: 142,
+        name: "Matungulu Sub County",
+        county: 22
+    }, {
+        id: 143,
+        name: "Mwala Sub County",
+        county: 22
+    }, {
+        id: 144,
+        name: "Yatta Sub County",
+        county: 22
+    }, {
+        id: 145,
+        name: "Kaiti Sub County",
+        county: 23
+    }, {
+        id: 146,
+        name: "Kibwezi East Sub County",
+        county: 23
+    }, {
+        id: 147,
+        name: "Kibwezi West Sub County",
+        county: 23
+    }, {
+        id: 148,
+        name: "Kilome Sub County",
+        county: 23
+    }, {
+        id: 149,
+        name: "Makueni Sub County",
+        county: 23
+    }, {
+        id: 150,
+        name: "Mbooni Sub County",
+        county: 23
+    }, {
+        id: 151,
+        name: "Banissa Sub County",
+        county: 24
+    }, {
+        id: 158,
+        name: "Laisamis Sub County",
+        county: 25
+    }, {
+        id: 159,
+        name: "Moyale Sub County",
+        county: 25
+    }, {
+        id: 160,
+        name: "North Horr Sub County",
+        county: 25
+    }, {
+        id: 161,
+        name: "Saku Sub County",
+        county: 25
+    }, {
+        id: 162,
+        name: "Buuri Sub County",
+        county: 26
+    }, {
+        id: 163,
+        name: "Igembe Central Sub County",
+        county: 26
+    }, {
+        id: 164,
+        name: "Igembe North Sub County",
+        county: 26
+    }, {
+        id: 165,
+        name: "Igembe South Sub County",
+        county: 26
+    }, {
+        id: 169,
+        name: "Tigania East Sub County",
+        county: 26
+    }, {
+        id: 170,
+        name: "Tigania West Sub County",
+        county: 26
+    }, {
+        id: 171,
+        name: "Awendo Sub County",
+        county: 27
+    }, {
+        id: 172,
+        name: "Kuria East Sub County",
+        county: 27
+    }, {
+        id: 173,
+        name: "Kuria West Sub County",
+        county: 27
+    }, {
+        id: 174,
+        name: "Nyatike Sub County",
+        county: 27
+    }, {
+        id: 175,
+        name: "Rongo Sub County",
+        county: 27
+    }, {
+        id: 176,
+        name: "Suna East Sub County",
+        county: 27
+    }, {
+        id: 177,
+        name: "Suna West Sub County",
+        county: 27
+    }, {
+        id: 178,
+        name: "Uriri Sub County",
+        county: 27
+    }, {
+        id: 179,
+        name: "Changamwe Sub County",
+        county: 28
+    }, {
+        id: 180,
+        name: "Jomvu Sub County",
+        county: 28
+    }, {
+        id: 181,
+        name: "Kisauni Sub County",
+        county: 28
+    }, {
+        id: 182,
+        name: "Likoni Sub County",
+        county: 28
+    }, {
+        id: 183,
+        name: "Mvita Sub County",
+        county: 28
+    }, {
+        id: 184,
+        name: "Nyali Sub County",
+        county: 28
+    }, {
+        id: 185,
+        name: "Gatanga Sub County",
+        county: 29
+    }, {
+        id: 186,
+        name: "Kandara Sub County",
+        county: 29
+    }, {
+        id: 188,
+        name: "Kigumo Sub County",
+        county: 29
+    }, {
+        id: 189,
+        name: "Kiharu Sub County",
+        county: 29
+    }, {
+        id: 190,
+        name: "Mathioya Sub County",
+        county: 29
+    }, {
+        id: 191,
+        name: "Muranga South Sub County",
+        county: 29
+    }, {
+        id: 192,
+        name: "Dagoretti North Sub County",
+        county: 30
+    }, {
+        id: 193,
+        name: "Dagoretti South Sub County",
+        county: 30
+    }, {
+        id: 194,
+        name: "Embakasi Central Sub County",
+        county: 30
+    }, {
+        id: 195,
+        name: "Embakasi East Sub County",
+        county: 30
+    }, {
+        id: 196,
+        name: "Embakasi North Sub County",
+        county: 30
+    }, {
+        id: 197,
+        name: "Embakasi South Sub County",
+        county: 30
+    }, {
+        id: 198,
+        name: "Embakasi West Sub County",
+        county: 30
+    }, {
+        id: 199,
+        name: "Kamukunji Sub County",
+        county: 30
+    }, {
+        id: 200,
+        name: "Kasarani Sub County",
+        county: 30
+    }, {
+        id: 201,
+        name: "Kibra Sub County",
+        county: 30
+    }, {
+        id: 202,
+        name: "Langata Sub County",
+        county: 30
+    }, {
+        id: 203,
+        name: "Makadara Sub County",
+        county: 30
+    }, {
+        id: 204,
+        name: "Mathare Sub County",
+        county: 30
+    }, {
+        id: 205,
+        name: "Roysambu Sub County",
+        county: 30
+    }, {
+        id: 206,
+        name: "Ruaraka Sub County",
+        county: 30
+    }, {
+        id: 207,
+        name: "Starehe Sub County",
+        county: 30
+    }, {
+        id: 208,
+        name: "Westlands Sub County",
+        county: 30
+    }, {
+        id: 209,
+        name: "Gilgil Sub County",
+        county: 31
+    }, {
+        id: 210,
+        name: "Kuresoi North Sub County",
+        county: 31
+    }, {
+        id: 211,
+        name: "Kuresoi South Sub County",
+        county: 31
+    }, {
+        id: 212,
+        name: "Molo Sub County",
+        county: 31
+    }, {
+        id: 213,
+        name: "Naivasha Sub County",
+        county: 31
+    }, {
+        id: 214,
+        name: "Nakuru East Sub County",
+        county: 31
+    }, {
+        id: 215,
+        name: "Nakuru North Sub County",
+        county: 31
+    }, {
+        id: 216,
+        name: "Nakuru West Sub County",
+        county: 31
+    }, {
+        id: 217,
+        name: "Njoro Sub County",
+        county: 31
+    }, {
+        id: 218,
+        name: "Rongai Sub County",
+        county: 31
+    }, {
+        id: 219,
+        name: "Subukia Sub County",
+        county: 31
+    }, {
+        id: 220,
+        name: "Aldai Sub County",
+        county: 32
+    }, {
+        id: 221,
+        name: "Chesumei Sub County",
+        county: 32
+    }, {
+        id: 222,
+        name: "Emgwen Sub County",
+        county: 32
+    }, {
+        id: 223,
+        name: "Mosop Sub County",
+        county: 32
+    }, {
+        id: 224,
+        name: "Nandi Hills Sub County",
+        county: 32
+    }, {
+        id: 225,
+        name: "Tinderet Sub County",
+        county: 32
+    }, {
+        id: 226,
+        name: "Narok East Sub County",
+        county: 33
+    }, {
+        id: 227,
+        name: "Narok North Sub County",
+        county: 33
+    }, {
+        id: 228,
+        name: "Narok South Sub County",
+        county: 33
+    }, {
+        id: 229,
+        name: "Narok West Sub County",
+        county: 33
+    }, {
+        id: 230,
+        name: "Transmara East Sub County",
+        county: 33
+    }, {
+        id: 231,
+        name: "Transmara West Sub County",
+        county: 33
+    }, {
+        id: 232,
+        name: "Borabu Sub County",
+        county: 34
+    }, {
+        id: 233,
+        name: "Manga Sub County",
+        county: 34
+    }, {
+        id: 234,
+        name: "Masaba North Sub County",
+        county: 34
+    }, {
+        id: 235,
+        name: "Nyamira North Sub County",
+        county: 34
+    }, {
+        id: 236,
+        name: "Nyamira Sub County",
+        county: 34
+    }, {
+        id: 237,
+        name: "Kinangop Sub County",
+        county: 35
+    }, {
+        id: 238,
+        name: "Kipipiri Sub County",
+        county: 35
+    }, {
+        id: 239,
+        name: "Ndaragwa Sub County",
+        county: 35
+    }, {
+        id: 242,
+        name: "Kieni East Sub County",
+        county: 36
+    }, {
+        id: 243,
+        name: "Kieni West Sub County",
+        county: 36
+    }, {
+        id: 244,
+        name: "Mathira East Sub County",
+        county: 36
+    }, {
+        id: 245,
+        name: "Mathira West Sub County",
+        county: 36
+    }, {
+        id: 246,
+        name: "Mukurweini Sub County",
+        county: 36
+    }, {
+        id: 247,
+        name: "Nyeri Central Sub County",
+        county: 36
+    }, {
+        id: 248,
+        name: "Nyeri South Sub County",
+        county: 36
+    }, {
+        id: 249,
+        name: "Tetu Sub County",
+        county: 36
+    }, {
+        id: 250,
+        name: "Samburu Central Sub County",
+        county: 37
+    }, {
+        id: 251,
+        name: "Samburu East Sub County",
+        county: 37
+    }, {
+        id: 252,
+        name: "Samburu North Sub County",
+        county: 37
+    }, {
+        id: 253,
+        name: "Alego Usonga Sub County",
+        county: 38
+    }, {
+        id: 254,
+        name: "Bondo Sub County",
+        county: 38
+    }, {
+        id: 255,
+        name: "Gem Sub County",
+        county: 38
+    }, {
+        id: 256,
+        name: "Rarieda Sub County",
+        county: 38
+    }, {
+        id: 257,
+        name: "Ugenya Sub County",
+        county: 38
+    }, {
+        id: 258,
+        name: "Ugunja Sub County",
+        county: 38
+    }, {
+        id: 259,
+        name: "Mwatate Sub County",
+        county: 39
+    }, {
+        id: 260,
+        name: "Taveta Sub County",
+        county: 39
+    }, {
+        id: 261,
+        name: "Voi Sub County",
+        county: 39
+    }, {
+        id: 262,
+        name: "Wundanyi Sub County",
+        county: 39
+    }, {
+        id: 263,
+        name: "Bura Sub County",
+        county: 40
+    }, {
+        id: 264,
+        name: "Galole Sub County",
+        county: 40
+    }, {
+        id: 166,
+        name: "Imenti Central Sub County",
+        county: 26
+    }, {
+        id: 157,
+        name: "Mandera West Sub County",
+        county: 24
+    }, {
+        id: 134,
+        name: "Lamu East Sub County",
+        county: 21
+    }, {
+        id: 156,
+        name: "Mandera South Sub County",
+        county: 24
+    }, {
+        id: 155,
+        name: "Mandera North Sub County",
+        county: 24
+    }, {
+        id: 153,
+        name: "Lafey Sub County",
+        county: 24
+    }, {
+        id: 240,
+        name: "Ol Joro Orok Sub County",
+        county: 35
+    }, {
+        id: 167,
+        name: "Imenti North Sub County",
+        county: 26
+    }, {
+        id: 140,
+        name: "Machakos Sub County",
+        county: 22
+    }, {
+        id: 266,
+        name: "Chuka Sub County",
+        county: 41
+    }, {
+        id: 267,
+        name: "Igambangombe Sub County",
+        county: 41
+    }, {
+        id: 268,
+        name: "Muthambi Sub County",
+        county: 41
+    }, {
+        id: 269,
+        name: "Mwimbi Sub County",
+        county: 41
+    }, {
+        id: 270,
+        name: "Tharaka North Sub County",
+        county: 41
+    }, {
+        id: 271,
+        name: "Tharaka South Sub County",
+        county: 41
+    }, {
+        id: 272,
+        name: "Cherangany Sub County",
+        county: 42
+    }, {
+        id: 273,
+        name: "Endebess Sub County",
+        county: 42
+    }, {
+        id: 274,
+        name: "Kiminini Sub County",
+        county: 42
+    }, {
+        id: 275,
+        name: "Kwanza Sub County",
+        county: 42
+    }, {
+        id: 276,
+        name: "Saboti Sub County",
+        county: 42
+    }, {
+        id: 279,
+        name: "Turkana Central Sub County",
+        county: 43
+    }, {
+        id: 280,
+        name: "Turkana East Sub County",
+        county: 43
+    }, {
+        id: 281,
+        name: "Turkana North Sub County",
+        county: 43
+    }, {
+        id: 282,
+        name: "Turkana South Sub County",
+        county: 43
+    }, {
+        id: 283,
+        name: "Turkana West Sub County",
+        county: 43
+    }, {
+        id: 284,
+        name: "Ainabkoi Sub County",
+        county: 44
+    }, {
+        id: 285,
+        name: "Kapseret Sub County",
+        county: 44
+    }, {
+        id: 286,
+        name: "Kesses Sub County",
+        county: 44
+    }, {
+        id: 287,
+        name: "Moiben Sub County",
+        county: 44
+    }, {
+        id: 288,
+        name: "Soy Sub County",
+        county: 44
+    }, {
+        id: 289,
+        name: "Turbo Sub County",
+        county: 44
+    }, {
+        id: 290,
+        name: "Emuhaya Sub County",
+        county: 45
+    }, {
+        id: 291,
+        name: "Hamisi Sub County",
+        county: 45
+    }, {
+        id: 292,
+        name: "Luanda Sub County",
+        county: 45
+    }, {
+        id: 293,
+        name: "Sabatia Sub County",
+        county: 45
+    }, {
+        id: 294,
+        name: "Vihiga Sub County",
+        county: 45
+    }, {
+        id: 301,
+        name: "Pokot Central Sub County",
+        county: 47
+    }, {
+        id: 302,
+        name: "Pokot North Sub County",
+        county: 47
+    }, {
+        id: 303,
+        name: "Pokot South Sub County",
+        county: 47
+    }, {
+        id: 304,
+        name: "West Pokot Sub County",
+        county: 47
+    }, {
+        id: 569,
+        name: "Kanduyi Sub County",
+        county: 3
+    }, {
+        id: 570,
+        name: "Lamu West Sub County",
+        county: 21
+    }, {
+        id: 571,
+        name: "Mandera East Sub County",
+        county: 24
+    }, {
+        id: 573,
+        name: "Wajir East Sub County",
+        county: 46
+    }, {
+        id: 295,
+        name: "Eldas Sub County",
+        county: 46
+    }, {
+        id: 296,
+        name: "Tarbaj Sub County",
+        county: 46
+    }, {
+        id: 298,
+        name: "Wajir North Sub County",
+        county: 46
+    }, {
+        id: 299,
+        name: "Wajir South Sub County",
+        county: 46
+    }, {
+        id: 300,
+        name: "Wajir West Sub County",
+        county: 46
+    }, {
+        id: 572,
+        name: "Ol Kalou Sub County",
+        county: 35
+    }, {
+        id: 278,
+        name: "Loima Sub County",
+        county: 43
+    }, {
+        id: 277,
+        name: "Kibish Sub County",
+        county: 43
+    }, {
+        id: 168,
+        name: "Imenti South Sub County",
+        county: 26
+    }, {
+        id: 41,
+        name: "Garissa Sub County",
+        county: 7
+    }, {
+        id: 712,
+        name: "Garsen Sub County",
+        county: 40
+    }, {
+        id: 713,
+        name: "Kangema Sub County",
+        county: 29
+    }, {
+        id: 714,
+        name: "Karachuonyo Sub County",
+        county: 8
+    }, {
+        id: 715,
+        name: "Sirisia Sub County",
+        county: 3
+    }, {
+        id: 716,
+        name: "Kabuchai Sub County",
+        county: 3
+    }, {
+        id: 717,
+        name: "Tongaren Sub County",
+        county: 3
+    }],
+        wards: [{
+            id: 1,
+            name: "Port Reitz",
+            sub_county: 179
+        }, {
+            id: 2,
+            name: "Kipevu",
+            sub_county: 179
+        }, {
+            id: 3,
+            name: "Airport",
+            sub_county: 179
+        }, {
+            id: 4,
+            name: "Changamwe",
+            sub_county: 179
+        }, {
+            id: 5,
+            name: "Chaani",
+            sub_county: 179
+        }, {
+            id: 6,
+            name: "Jomvu Kuu",
+            sub_county: 180
+        }, {
+            id: 7,
+            name: "Miritini",
+            sub_county: 180
+        }, {
+            id: 8,
+            name: "Mikindani",
+            sub_county: 180
+        }, {
+            id: 9,
+            name: "Mjambere",
+            sub_county: 181
+        }, {
+            id: 10,
+            name: "Junda",
+            sub_county: 181
+        }, {
+            id: 11,
+            name: "Bamburi",
+            sub_county: 181
+        }, {
+            id: 12,
+            name: "Mwakirunge",
+            sub_county: 181
+        }, {
+            id: 13,
+            name: "Mtopanga",
+            sub_county: 181
+        }, {
+            id: 14,
+            name: "Magogoni",
+            sub_county: 181
+        }, {
+            id: 15,
+            name: "Shanzu",
+            sub_county: 181
+        }, {
+            id: 16,
+            name: "Frere Town",
+            sub_county: 184
+        }, {
+            id: 18,
+            name: "Mkomani",
+            sub_county: 184
+        }, {
+            id: 19,
+            name: "Kongowea",
+            sub_county: 184
+        }, {
+            id: 20,
+            name: "Kadzandani",
+            sub_county: 184
+        }, {
+            id: 21,
+            name: "Mtongwe",
+            sub_county: 182
+        }, {
+            id: 22,
+            name: "Shika Adabu",
+            sub_county: 182
+        }, {
+            id: 23,
+            name: "Bofu",
+            sub_county: 182
+        }, {
+            id: 24,
+            name: "Likoni",
+            sub_county: 182
+        }, {
+            id: 25,
+            name: "Timbwani",
+            sub_county: 182
+        }, {
+            id: 26,
+            name: "Mji Wa Kale/Makadara",
+            sub_county: 183
+        }, {
+            id: 27,
+            name: "Tudor",
+            sub_county: 183
+        }, {
+            id: 28,
+            name: "Tononoka",
+            sub_county: 183
+        }, {
+            id: 29,
+            name: "Shimanzi/Ganjoni",
+            sub_county: 183
+        }, {
+            id: 30,
+            name: "Majengo",
+            sub_county: 183
+        }, {
+            id: 31,
+            name: "Gambato Bongwe",
+            sub_county: 130
+        }, {
+            id: 32,
+            name: "Ukunda",
+            sub_county: 130
+        }, {
+            id: 33,
+            name: "Kinondo",
+            sub_county: 130
+        }, {
+            id: 34,
+            name: "Ramisi",
+            sub_county: 130
+        }, {
+            id: 35,
+            name: "Pongwe/Kikokeni",
+            sub_county: 128
+        }, {
+            id: 36,
+            name: "Dzombo",
+            sub_county: 128
+        }, {
+            id: 37,
+            name: "Mwereni",
+            sub_county: 128
+        }, {
+            id: 38,
+            name: "Vanga",
+            sub_county: 128
+        }, {
+            id: 39,
+            name: "Tsimba Golini",
+            sub_county: 129
+        }, {
+            id: 41,
+            name: "Tiwi",
+            sub_county: 129
+        }, {
+            id: 42,
+            name: "Kubo South",
+            sub_county: 129
+        }, {
+            id: 43,
+            name: "Mkongani",
+            sub_county: 129
+        }, {
+            id: 44,
+            name: "Ndavaya",
+            sub_county: 127
+        }, {
+            id: 45,
+            name: "Puma",
+            sub_county: 127
+        }, {
+            id: 46,
+            name: "Kinango",
+            sub_county: 127
+        }, {
+            id: 47,
+            name: "Mackinon Road",
+            sub_county: 127
+        }, {
+            id: 48,
+            name: "Chengoni/Samburu",
+            sub_county: 127
+        }, {
+            id: 49,
+            name: "Mwavumbo",
+            sub_county: 127
+        }, {
+            id: 50,
+            name: "Kasemeni",
+            sub_county: 127
+        }, {
+            id: 51,
+            name: "Tezo",
+            sub_county: 93
+        }, {
+            id: 52,
+            name: "Sokoni",
+            sub_county: 93
+        }, {
+            id: 53,
+            name: "Kibarani",
+            sub_county: 93
+        }, {
+            id: 54,
+            name: "Dabaso",
+            sub_county: 93
+        }, {
+            id: 55,
+            name: "Matsangoni",
+            sub_county: 93
+        }, {
+            id: 56,
+            name: "Watamu",
+            sub_county: 93
+        }, {
+            id: 57,
+            name: "Mnarani",
+            sub_county: 93
+        }, {
+            id: 58,
+            name: "Junju",
+            sub_county: 94
+        }, {
+            id: 59,
+            name: "Mwarakaya",
+            sub_county: 94
+        }, {
+            id: 60,
+            name: "Shimo La Tewa",
+            sub_county: 97
+        }, {
+            id: 61,
+            name: "Chasimba",
+            sub_county: 91
+        }, {
+            id: 62,
+            name: "Mtepeni",
+            sub_county: 96
+        }, {
+            id: 63,
+            name: "Mariakani",
+            sub_county: 92
+        }, {
+            id: 64,
+            name: "Kayafungo",
+            sub_county: 97
+        }, {
+            id: 65,
+            name: "Kaloleni",
+            sub_county: 91
+        }, {
+            id: 66,
+            name: "Mwanamwinga",
+            sub_county: 96
+        }, {
+            id: 67,
+            name: "Mwawesa",
+            sub_county: 97
+        }, {
+            id: 68,
+            name: "Ruruma",
+            sub_county: 91
+        }, {
+            id: 69,
+            name: "Kambe/Ribe",
+            sub_county: 96
+        }, {
+            id: 71,
+            name: "Ganze",
+            sub_county: 91
+        }, {
+            id: 72,
+            name: "Bamba",
+            sub_county: 91
+        }, {
+            id: 73,
+            name: "Jaribuni",
+            sub_county: 91
+        }, {
+            id: 74,
+            name: "Sokoke",
+            sub_county: 91
+        }, {
+            id: 75,
+            name: "Jilore",
+            sub_county: 96
+        }, {
+            id: 76,
+            name: "Kakuyuni",
+            sub_county: 96
+        }, {
+            id: 77,
+            name: "Ganda",
+            sub_county: 96
+        }, {
+            id: 78,
+            name: "Malindi Town",
+            sub_county: 96
+        }, {
+            id: 79,
+            name: "Shella",
+            sub_county: 96
+        }, {
+            id: 80,
+            name: "Marafa",
+            sub_county: 95
+        }, {
+            id: 81,
+            name: "Magarini",
+            sub_county: 95
+        }, {
+            id: 82,
+            name: "Gongoni",
+            sub_county: 95
+        }, {
+            id: 83,
+            name: "Adu",
+            sub_county: 95
+        }, {
+            id: 84,
+            name: "Garashi",
+            sub_county: 95
+        }, {
+            id: 85,
+            name: "Sabaki",
+            sub_county: 95
+        }, {
+            id: 86,
+            name: "Kinakomba",
+            sub_county: 264
+        }, {
+            id: 87,
+            name: "Mikinduni",
+            sub_county: 264
+        }, {
+            id: 88,
+            name: "Chewani",
+            sub_county: 264
+        }, {
+            id: 89,
+            name: "Wayu",
+            sub_county: 264
+        }, {
+            id: 90,
+            name: "Chewele",
+            sub_county: 263
+        }, {
+            id: 92,
+            name: "Bangale",
+            sub_county: 263
+        }, {
+            id: 93,
+            name: "Sala",
+            sub_county: 263
+        }, {
+            id: 94,
+            name: "Madogo",
+            sub_county: 263
+        }, {
+            id: 95,
+            name: "Chala",
+            sub_county: 260
+        }, {
+            id: 97,
+            name: "Bomani",
+            sub_county: 260
+        }, {
+            id: 98,
+            name: "Mboghoni",
+            sub_county: 260
+        }, {
+            id: 99,
+            name: "Mata",
+            sub_county: 260
+        }, {
+            id: 100,
+            name: "Wundanyi/Mbale",
+            sub_county: 262
+        }, {
+            id: 101,
+            name: "Werugha",
+            sub_county: 262
+        }, {
+            id: 102,
+            name: "Wumingu/Kishushe",
+            sub_county: 262
+        }, {
+            id: 103,
+            name: "Mwanda/Mgange",
+            sub_county: 262
+        }, {
+            id: 104,
+            name: "Ronge",
+            sub_county: 259
+        }, {
+            id: 105,
+            name: "Mwatate",
+            sub_county: 259
+        }, {
+            id: 106,
+            name: "Bura",
+            sub_county: 259
+        }, {
+            id: 107,
+            name: "Chawia",
+            sub_county: 259
+        }, {
+            id: 108,
+            name: "Wusi/Kishamba",
+            sub_county: 259
+        }, {
+            id: 109,
+            name: "Mbololo",
+            sub_county: 261
+        }, {
+            id: 110,
+            name: "Sagala",
+            sub_county: 261
+        }, {
+            id: 111,
+            name: "Kaloleni",
+            sub_county: 261
+        }, {
+            id: 112,
+            name: "Marungu",
+            sub_county: 261
+        }, {
+            id: 113,
+            name: "Kasigau",
+            sub_county: 261
+        }, {
+            id: 114,
+            name: "Ngolia",
+            sub_county: 261
+        }, {
+            id: 115,
+            name: "Balambala",
+            sub_county: 38
+        }, {
+            id: 116,
+            name: "Danyere",
+            sub_county: 38
+        }, {
+            id: 117,
+            name: "Jarajara",
+            sub_county: 38
+        }, {
+            id: 118,
+            name: "Saka",
+            sub_county: 38
+        }, {
+            id: 119,
+            name: "Sankuri",
+            sub_county: 38
+        }, {
+            id: 120,
+            name: "Modogashe",
+            sub_county: 44
+        }, {
+            id: 121,
+            name: "Benane",
+            sub_county: 44
+        }, {
+            id: 122,
+            name: "Goreale",
+            sub_county: 44
+        }, {
+            id: 123,
+            name: "Maalamin",
+            sub_county: 44
+        }, {
+            id: 124,
+            name: "Sabena",
+            sub_county: 44
+        }, {
+            id: 125,
+            name: "Baraki",
+            sub_county: 44
+        }, {
+            id: 126,
+            name: "Dertu",
+            sub_county: 39
+        }, {
+            id: 127,
+            name: "Dadaab",
+            sub_county: 39
+        }, {
+            id: 128,
+            name: "Labisgale",
+            sub_county: 39
+        }, {
+            id: 129,
+            name: "Damajale",
+            sub_county: 39
+        }, {
+            id: 130,
+            name: "Liboi",
+            sub_county: 39
+        }, {
+            id: 131,
+            name: "Abakaile",
+            sub_county: 39
+        }, {
+            id: 132,
+            name: "Bura",
+            sub_county: 40
+        }, {
+            id: 133,
+            name: "Dekaharia",
+            sub_county: 40
+        }, {
+            id: 134,
+            name: "Jarajila",
+            sub_county: 40
+        }, {
+            id: 135,
+            name: "Fafi",
+            sub_county: 40
+        }, {
+            id: 136,
+            name: "Nanighi",
+            sub_county: 40
+        }, {
+            id: 137,
+            name: "Hulugho",
+            sub_county: 43
+        }, {
+            id: 138,
+            name: "Sangailu",
+            sub_county: 43
+        }, {
+            id: 139,
+            name: "Ijara",
+            sub_county: 43
+        }, {
+            id: 140,
+            name: "Masalani",
+            sub_county: 43
+        }, {
+            id: 141,
+            name: "Banissa",
+            sub_county: 151
+        }, {
+            id: 142,
+            name: "Derkhale",
+            sub_county: 151
+        }, {
+            id: 143,
+            name: "Guba",
+            sub_county: 151
+        }, {
+            id: 144,
+            name: "Malkamari",
+            sub_county: 151
+        }, {
+            id: 145,
+            name: "Kilwehiri",
+            sub_county: 151
+        }, {
+            id: 146,
+            name: "Butiye",
+            sub_county: 159
+        }, {
+            id: 147,
+            name: "Sololo",
+            sub_county: 159
+        }, {
+            id: 148,
+            name: "Heillu/Manyatta",
+            sub_county: 159
+        }, {
+            id: 149,
+            name: "Golbo",
+            sub_county: 159
+        }, {
+            id: 150,
+            name: "Moyale Township",
+            sub_county: 159
+        }, {
+            id: 151,
+            name: "Uran",
+            sub_county: 159
+        }, {
+            id: 152,
+            name: "Obbu",
+            sub_county: 159
+        }, {
+            id: 153,
+            name: "Dukana",
+            sub_county: 160
+        }, {
+            id: 154,
+            name: "Maikona",
+            sub_county: 160
+        }, {
+            id: 155,
+            name: "Turbi",
+            sub_county: 160
+        }, {
+            id: 156,
+            name: "North Horr",
+            sub_county: 160
+        }, {
+            id: 157,
+            name: "Illeret",
+            sub_county: 160
+        }, {
+            id: 158,
+            name: "Sagante/Jaldesa",
+            sub_county: 161
+        }, {
+            id: 159,
+            name: "Karare",
+            sub_county: 161
+        }, {
+            id: 164,
+            name: "Loglogo",
+            sub_county: 158
+        }, {
+            id: 165,
+            name: "Laisamis",
+            sub_county: 158
+        }, {
+            id: 166,
+            name: "Maua",
+            sub_county: 165
+        }, {
+            id: 168,
+            name: "Athiru Gaiti",
+            sub_county: 165
+        }, {
+            id: 169,
+            name: "Akachiu",
+            sub_county: 165
+        }, {
+            id: 170,
+            name: "Kanuni",
+            sub_county: 165
+        }, {
+            id: 172,
+            name: "Athiru Ruujine",
+            sub_county: 163
+        }, {
+            id: 173,
+            name: "Igembe East",
+            sub_county: 163
+        }, {
+            id: 174,
+            name: "Njia",
+            sub_county: 163
+        }, {
+            id: 175,
+            name: "Kangeta",
+            sub_county: 163
+        }, {
+            id: 176,
+            name: "Antuambui",
+            sub_county: 164
+        }, {
+            id: 177,
+            name: "Ntunene",
+            sub_county: 164
+        }, {
+            id: 178,
+            name: "Antubetwe Kiongo",
+            sub_county: 164
+        }, {
+            id: 179,
+            name: "Naathu",
+            sub_county: 164
+        }, {
+            id: 180,
+            name: "Amwathi",
+            sub_county: 164
+        }, {
+            id: 181,
+            name: "Athwana",
+            sub_county: 170
+        }, {
+            id: 182,
+            name: "Akithii",
+            sub_county: 170
+        }, {
+            id: 183,
+            name: "Kianjai",
+            sub_county: 170
+        }, {
+            id: 184,
+            name: "Nkomo",
+            sub_county: 170
+        }, {
+            id: 185,
+            name: "Mbeu",
+            sub_county: 170
+        }, {
+            id: 186,
+            name: "Thangatha",
+            sub_county: 169
+        }, {
+            id: 187,
+            name: "Mikinduri",
+            sub_county: 169
+        }, {
+            id: 188,
+            name: "Kinguchwa",
+            sub_county: 169
+        }, {
+            id: 189,
+            name: "Muthara",
+            sub_county: 169
+        }, {
+            id: 190,
+            name: "Karama",
+            sub_county: 169
+        }, {
+            id: 191,
+            name: "Timau",
+            sub_county: 162
+        }, {
+            id: 192,
+            name: "Kisima",
+            sub_county: 162
+        }, {
+            id: 194,
+            name: "Ruiru/Rwawera",
+            sub_county: 162
+        }, {
+            id: 195,
+            name: "Kibirichia",
+            sub_county: 162
+        }, {
+            id: 197,
+            name: "Kithimu",
+            sub_county: 34
+        }, {
+            id: 198,
+            name: "Nginda",
+            sub_county: 34
+        }, {
+            id: 199,
+            name: "Mbeti North",
+            sub_county: 34
+        }, {
+            id: 200,
+            name: "Kirimari",
+            sub_county: 34
+        }, {
+            id: 201,
+            name: "Gaturi South",
+            sub_county: 34
+        }, {
+            id: 202,
+            name: "Gaturi North",
+            sub_county: 37
+        }, {
+            id: 204,
+            name: "Central",
+            sub_county: 37
+        }, {
+            id: 206,
+            name: "Kyeni North",
+            sub_county: 37
+        }, {
+            id: 207,
+            name: "Kyeni South",
+            sub_county: 37
+        }, {
+            id: 208,
+            name: "Mwea",
+            sub_county: 36
+        }, {
+            id: 209,
+            name: "Makima",
+            sub_county: 36
+        }, {
+            id: 210,
+            name: "Mbeti South",
+            sub_county: 36
+        }, {
+            id: 211,
+            name: "Mavuria",
+            sub_county: 36
+        }, {
+            id: 212,
+            name: "Kiambere",
+            sub_county: 36
+        }, {
+            id: 213,
+            name: "Nthawa",
+            sub_county: 35
+        }, {
+            id: 214,
+            name: "Muminji",
+            sub_county: 35
+        }, {
+            id: 215,
+            name: "Evurore",
+            sub_county: 35
+        }, {
+            id: 216,
+            name: "Ngomeni",
+            sub_county: 125
+        }, {
+            id: 217,
+            name: "Kyuso",
+            sub_county: 125
+        }, {
+            id: 218,
+            name: "Mumoni",
+            sub_county: 125
+        }, {
+            id: 219,
+            name: "Tseikuru",
+            sub_county: 125
+        }, {
+            id: 220,
+            name: "Tharaka",
+            sub_county: 125
+        }, {
+            id: 221,
+            name: "Kyome/Thaana",
+            sub_county: 126
+        }, {
+            id: 222,
+            name: "Nguutani",
+            sub_county: 126
+        }, {
+            id: 223,
+            name: "Migwani",
+            sub_county: 126
+        }, {
+            id: 224,
+            name: "Kiomo/Kyethani",
+            sub_county: 126
+        }, {
+            id: 225,
+            name: "Central",
+            sub_county: 124
+        }, {
+            id: 226,
+            name: "Kivou",
+            sub_county: 124
+        }, {
+            id: 227,
+            name: "Nguni",
+            sub_county: 124
+        }, {
+            id: 228,
+            name: "Nuu",
+            sub_county: 124
+        }, {
+            id: 229,
+            name: "Mui",
+            sub_county: 124
+        }, {
+            id: 230,
+            name: "Waita",
+            sub_county: 124
+        }, {
+            id: 231,
+            name: "Mutongoni",
+            sub_county: 123
+        }, {
+            id: 232,
+            name: "Kauwi",
+            sub_county: 123
+        }, {
+            id: 233,
+            name: "Matinyani",
+            sub_county: 123
+        }, {
+            id: 234,
+            name: "Kwamutonga/Kithumula",
+            sub_county: 123
+        }, {
+            id: 235,
+            name: "Kisasi",
+            sub_county: 121
+        }, {
+            id: 236,
+            name: "Mbitini",
+            sub_county: 121
+        }, {
+            id: 237,
+            name: "Kwavonza/Yatta",
+            sub_county: 121
+        }, {
+            id: 238,
+            name: "Kanyangi",
+            sub_county: 121
+        }, {
+            id: 239,
+            name: "Miambani",
+            sub_county: 119
+        }, {
+            id: 240,
+            name: "Township",
+            sub_county: 119
+        }, {
+            id: 241,
+            name: "Kyangwithya West",
+            sub_county: 119
+        }, {
+            id: 242,
+            name: "Mulango",
+            sub_county: 119
+        }, {
+            id: 243,
+            name: "Kyangwithya East",
+            sub_county: 119
+        }, {
+            id: 244,
+            name: "Zombe/Mwitika",
+            sub_county: 120
+        }, {
+            id: 245,
+            name: "Nzambani",
+            sub_county: 120
+        }, {
+            id: 246,
+            name: "Chuluni",
+            sub_county: 120
+        }, {
+            id: 247,
+            name: "Voo/Kyamatu",
+            sub_county: 120
+        }, {
+            id: 248,
+            name: "Endau/Malalani",
+            sub_county: 120
+        }, {
+            id: 249,
+            name: "Mutitu/Kaliku",
+            sub_county: 120
+        }, {
+            id: 250,
+            name: "Ikanga/Kyatune",
+            sub_county: 122
+        }, {
+            id: 251,
+            name: "Mutomo",
+            sub_county: 122
+        }, {
+            id: 252,
+            name: "Mutha",
+            sub_county: 122
+        }, {
+            id: 253,
+            name: "Ikutha",
+            sub_county: 122
+        }, {
+            id: 255,
+            name: "Athi",
+            sub_county: 122
+        }, {
+            id: 256,
+            name: "Kivaa",
+            sub_county: 141
+        }, {
+            id: 257,
+            name: "Masinga Central",
+            sub_county: 141
+        }, {
+            id: 258,
+            name: "Ekalakala",
+            sub_county: 141
+        }, {
+            id: 259,
+            name: "Muthesya",
+            sub_county: 141
+        }, {
+            id: 260,
+            name: "Ndithini",
+            sub_county: 141
+        }, {
+            id: 261,
+            name: "Ndalani",
+            sub_county: 144
+        }, {
+            id: 262,
+            name: "Matuu",
+            sub_county: 144
+        }, {
+            id: 263,
+            name: "Kithimani",
+            sub_county: 144
+        }, {
+            id: 264,
+            name: "Ikombe",
+            sub_county: 144
+        }, {
+            id: 265,
+            name: "Katangi",
+            sub_county: 144
+        }, {
+            id: 266,
+            name: "Kangundo North",
+            sub_county: 138
+        }, {
+            id: 267,
+            name: "Kangundo Central",
+            sub_county: 138
+        }, {
+            id: 268,
+            name: "Kangundo East",
+            sub_county: 138
+        }, {
+            id: 269,
+            name: "Kangundo West",
+            sub_county: 138
+        }, {
+            id: 270,
+            name: "Tala",
+            sub_county: 142
+        }, {
+            id: 271,
+            name: "Matungulu North",
+            sub_county: 142
+        }, {
+            id: 272,
+            name: "Matungulu East",
+            sub_county: 142
+        }, {
+            id: 273,
+            name: "Matungulu West",
+            sub_county: 142
+        }, {
+            id: 274,
+            name: "Kyeleni",
+            sub_county: 142
+        }, {
+            id: 275,
+            name: "Mitamboni",
+            sub_county: 139
+        }, {
+            id: 276,
+            name: "Kathiani Central",
+            sub_county: 139
+        }, {
+            id: 277,
+            name: "Upper Kaewa/Iveti",
+            sub_county: 139
+        }, {
+            id: 278,
+            name: "Lower Kaewa/Kaani",
+            sub_county: 139
+        }, {
+            id: 279,
+            name: "Mbiuni",
+            sub_county: 143
+        }, {
+            id: 280,
+            name: "Makutano/Mwala",
+            sub_county: 143
+        }, {
+            id: 281,
+            name: "Masii",
+            sub_county: 143
+        }, {
+            id: 282,
+            name: "Muthetheni",
+            sub_county: 143
+        }, {
+            id: 283,
+            name: "Wamunyu",
+            sub_county: 143
+        }, {
+            id: 284,
+            name: "Kibauni",
+            sub_county: 143
+        }, {
+            id: 285,
+            name: "Tulimani",
+            sub_county: 150
+        }, {
+            id: 286,
+            name: "Mbooni",
+            sub_county: 150
+        }, {
+            id: 287,
+            name: "Kithungo/Kitundu",
+            sub_county: 150
+        }, {
+            id: 290,
+            name: "Kalawa",
+            sub_county: 150
+        }, {
+            id: 291,
+            name: "Kasikeu",
+            sub_county: 148
+        }, {
+            id: 292,
+            name: "Mukaa",
+            sub_county: 148
+        }, {
+            id: 293,
+            name: "Kima Kiu/Kalanzoni",
+            sub_county: 148
+        }, {
+            id: 294,
+            name: "Ukia",
+            sub_county: 145
+        }, {
+            id: 295,
+            name: "Kee",
+            sub_county: 145
+        }, {
+            id: 296,
+            name: "Kilungu",
+            sub_county: 145
+        }, {
+            id: 297,
+            name: "Ilima",
+            sub_county: 145
+        }, {
+            id: 298,
+            name: "Wote",
+            sub_county: 149
+        }, {
+            id: 299,
+            name: "Muvau/Kikumini",
+            sub_county: 149
+        }, {
+            id: 300,
+            name: "Mavindini",
+            sub_county: 149
+        }, {
+            id: 301,
+            name: "Kitise/Kithuki",
+            sub_county: 149
+        }, {
+            id: 302,
+            name: "Kathonzweni",
+            sub_county: 149
+        }, {
+            id: 303,
+            name: "Nzaui/Kilili/Kalamba",
+            sub_county: 149
+        }, {
+            id: 304,
+            name: "Mbitini",
+            sub_county: 149
+        }, {
+            id: 305,
+            name: "Makindu",
+            sub_county: 147
+        }, {
+            id: 306,
+            name: "Nguumo",
+            sub_county: 147
+        }, {
+            id: 307,
+            name: "Kikumbulyu North",
+            sub_county: 147
+        }, {
+            id: 308,
+            name: "Kikumbulyu South",
+            sub_county: 147
+        }, {
+            id: 309,
+            name: "Nguu/Masumba",
+            sub_county: 147
+        }, {
+            id: 310,
+            name: "Emali/Mulala",
+            sub_county: 147
+        }, {
+            id: 311,
+            name: "Masongaleni",
+            sub_county: 146
+        }, {
+            id: 312,
+            name: "Mtito Andei",
+            sub_county: 146
+        }, {
+            id: 313,
+            name: "Thange",
+            sub_county: 146
+        }, {
+            id: 314,
+            name: "Ivingoni/Nzambani",
+            sub_county: 146
+        }, {
+            id: 315,
+            name: "Engineer",
+            sub_county: 237
+        }, {
+            id: 316,
+            name: "Gathara",
+            sub_county: 237
+        }, {
+            id: 317,
+            name: "North Kinangop",
+            sub_county: 237
+        }, {
+            id: 318,
+            name: "Murungaru",
+            sub_county: 237
+        }, {
+            id: 319,
+            name: "Njabani/Kiburu",
+            sub_county: 237
+        }, {
+            id: 320,
+            name: "Nyakio",
+            sub_county: 237
+        }, {
+            id: 321,
+            name: "Githabai",
+            sub_county: 237
+        }, {
+            id: 322,
+            name: "Magumu",
+            sub_county: 237
+        }, {
+            id: 323,
+            name: "Wanjohi",
+            sub_county: 238
+        }, {
+            id: 324,
+            name: "Kipipiri",
+            sub_county: 238
+        }, {
+            id: 325,
+            name: "Geta",
+            sub_county: 238
+        }, {
+            id: 326,
+            name: "Githioro",
+            sub_county: 238
+        }, {
+            id: 327,
+            name: "Leshau/Pondo",
+            sub_county: 239
+        }, {
+            id: 328,
+            name: "Kiritta",
+            sub_county: 239
+        }, {
+            id: 330,
+            name: "Shamata",
+            sub_county: 239
+        }, {
+            id: 331,
+            name: "Dedan Kimathi",
+            sub_county: 249
+        }, {
+            id: 332,
+            name: "Wamagana",
+            sub_county: 249
+        }, {
+            id: 333,
+            name: "Aguthi-Gaaki",
+            sub_county: 249
+        }, {
+            id: 334,
+            name: "Mutira",
+            sub_county: 98
+        }, {
+            id: 335,
+            name: "Kanyekini",
+            sub_county: 98
+        }, {
+            id: 336,
+            name: "Kerugoya",
+            sub_county: 98
+        }, {
+            id: 337,
+            name: "Inoi",
+            sub_county: 98
+        }, {
+            id: 338,
+            name: "Gitugi",
+            sub_county: 190
+        }, {
+            id: 339,
+            name: "Kiru",
+            sub_county: 190
+        }, {
+            id: 340,
+            name: "Kamacharia",
+            sub_county: 190
+        }, {
+            id: 341,
+            name: "Wangu",
+            sub_county: 189
+        }, {
+            id: 342,
+            name: "Mugoiri",
+            sub_county: 189
+        }, {
+            id: 343,
+            name: "Mbiri",
+            sub_county: 189
+        }, {
+            id: 344,
+            name: "Township",
+            sub_county: 189
+        }, {
+            id: 345,
+            name: "Murarandia",
+            sub_county: 189
+        }, {
+            id: 346,
+            name: "Gaturi",
+            sub_county: 189
+        }, {
+            id: 347,
+            name: "Kahumbu",
+            sub_county: 188
+        }, {
+            id: 348,
+            name: "Muthithi",
+            sub_county: 188
+        }, {
+            id: 349,
+            name: "Kigumo",
+            sub_county: 188
+        }, {
+            id: 350,
+            name: "Kangari",
+            sub_county: 188
+        }, {
+            id: 351,
+            name: "Kinyona",
+            sub_county: 188
+        }, {
+            id: 353,
+            name: "Muruka",
+            sub_county: 186
+        }, {
+            id: 355,
+            name: "Gaichanjiru",
+            sub_county: 186
+        }, {
+            id: 356,
+            name: "Ithiru",
+            sub_county: 186
+        }, {
+            id: 357,
+            name: "Ruchu",
+            sub_county: 186
+        }, {
+            id: 358,
+            name: "Ithanga",
+            sub_county: 185
+        }, {
+            id: 359,
+            name: "Kakuzi/Mitubiri",
+            sub_county: 185
+        }, {
+            id: 362,
+            name: "Gatanga",
+            sub_county: 185
+        }, {
+            id: 363,
+            name: "Kariara",
+            sub_county: 185
+        }, {
+            id: 364,
+            name: "Kiamwangi",
+            sub_county: 80
+        }, {
+            id: 365,
+            name: "Kiganjo",
+            sub_county: 80
+        }, {
+            id: 367,
+            name: "Ngenda",
+            sub_county: 80
+        }, {
+            id: 368,
+            name: "Gituamba",
+            sub_county: 79
+        }, {
+            id: 369,
+            name: "Githobokoni",
+            sub_county: 79
+        }, {
+            id: 370,
+            name: "Chania",
+            sub_county: 79
+        }, {
+            id: 372,
+            name: "Murera",
+            sub_county: 82
+        }, {
+            id: 373,
+            name: "Theta",
+            sub_county: 82
+        }, {
+            id: 374,
+            name: "Juja",
+            sub_county: 82
+        }, {
+            id: 375,
+            name: "Witeithie",
+            sub_county: 82
+        }, {
+            id: 376,
+            name: "Kalimoni",
+            sub_county: 82
+        }, {
+            id: 377,
+            name: "Township",
+            sub_county: 90
+        }, {
+            id: 378,
+            name: "Kamenu",
+            sub_county: 90
+        }, {
+            id: 379,
+            name: "Hospital",
+            sub_county: 90
+        }, {
+            id: 380,
+            name: "Gatuanyaga",
+            sub_county: 90
+        }, {
+            id: 381,
+            name: "Ngoliba",
+            sub_county: 90
+        }, {
+            id: 382,
+            name: "Gitothua",
+            sub_county: 89
+        }, {
+            id: 383,
+            name: "Biashara",
+            sub_county: 89
+        }, {
+            id: 384,
+            name: "Gatongora",
+            sub_county: 89
+        }, {
+            id: 385,
+            name: "Kahawa/Sukari",
+            sub_county: 89
+        }, {
+            id: 386,
+            name: "Kahawa Wendani",
+            sub_county: 89
+        }, {
+            id: 387,
+            name: "Kiuu",
+            sub_county: 89
+        }, {
+            id: 388,
+            name: "Mwiki",
+            sub_county: 89
+        }, {
+            id: 389,
+            name: "Mwihoko",
+            sub_county: 89
+        }, {
+            id: 390,
+            name: "Githunguri",
+            sub_county: 81
+        }, {
+            id: 391,
+            name: "Ikinu",
+            sub_county: 81
+        }, {
+            id: 392,
+            name: "Ngewa",
+            sub_county: 81
+        }, {
+            id: 393,
+            name: "Komothai",
+            sub_county: 81
+        }, {
+            id: 394,
+            name: "Cianda",
+            sub_county: 84
+        }, {
+            id: 395,
+            name: "Karuri",
+            sub_county: 84
+        }, {
+            id: 396,
+            name: "Ndenderu",
+            sub_county: 84
+        }, {
+            id: 397,
+            name: "Muchatha",
+            sub_county: 84
+        }, {
+            id: 398,
+            name: "Kihara",
+            sub_county: 84
+        }, {
+            id: 399,
+            name: "Gitaru",
+            sub_county: 83
+        }, {
+            id: 400,
+            name: "Muguga",
+            sub_county: 83
+        }, {
+            id: 401,
+            name: "Nyadhuna",
+            sub_county: 83
+        }, {
+            id: 402,
+            name: "Kabete",
+            sub_county: 83
+        }, {
+            id: 403,
+            name: "Uthiru",
+            sub_county: 83
+        }, {
+            id: 404,
+            name: "Karai",
+            sub_county: 86
+        }, {
+            id: 405,
+            name: "Nachu",
+            sub_county: 86
+        }, {
+            id: 406,
+            name: "Sigona",
+            sub_county: 86
+        }, {
+            id: 407,
+            name: "Kikuyu",
+            sub_county: 86
+        }, {
+            id: 408,
+            name: "Kinoo",
+            sub_county: 86
+        }, {
+            id: 409,
+            name: "Bibirioni",
+            sub_county: 88
+        }, {
+            id: 410,
+            name: "Limuru Central",
+            sub_county: 88
+        }, {
+            id: 411,
+            name: "Ndeiya",
+            sub_county: 88
+        }, {
+            id: 412,
+            name: "Limuru East",
+            sub_county: 88
+        }, {
+            id: 413,
+            name: "Ngecha Tigoni",
+            sub_county: 88
+        }, {
+            id: 414,
+            name: "Kinale",
+            sub_county: 87
+        }, {
+            id: 415,
+            name: "Kijabe",
+            sub_county: 87
+        }, {
+            id: 416,
+            name: "Nyanduma",
+            sub_county: 87
+        }, {
+            id: 417,
+            name: "Kamburu",
+            sub_county: 87
+        }, {
+            id: 418,
+            name: "Lari/Kirenga",
+            sub_county: 87
+        }, {
+            id: 419,
+            name: "Kaeris",
+            sub_county: 281
+        }, {
+            id: 420,
+            name: "Lakezone",
+            sub_county: 281
+        }, {
+            id: 421,
+            name: "Lapur",
+            sub_county: 281
+        }, {
+            id: 422,
+            name: "Kaaleng/Kaikor",
+            sub_county: 281
+        }, {
+            id: 423,
+            name: "Kibish",
+            sub_county: 281
+        }, {
+            id: 424,
+            name: "Nakalale",
+            sub_county: 281
+        }, {
+            id: 425,
+            name: "Kakuma",
+            sub_county: 283
+        }, {
+            id: 426,
+            name: "Lopur",
+            sub_county: 283
+        }, {
+            id: 427,
+            name: "Letea",
+            sub_county: 283
+        }, {
+            id: 428,
+            name: "Songot",
+            sub_county: 283
+        }, {
+            id: 429,
+            name: "Kalobeyei",
+            sub_county: 283
+        }, {
+            id: 430,
+            name: "Lokichoggio",
+            sub_county: 283
+        }, {
+            id: 431,
+            name: "Nanaam",
+            sub_county: 283
+        }, {
+            id: 432,
+            name: "Kerio Delta",
+            sub_county: 279
+        }, {
+            id: 434,
+            name: "Kalokol",
+            sub_county: 279
+        }, {
+            id: 435,
+            name: "Lodwar Township",
+            sub_county: 279
+        }, {
+            id: 436,
+            name: "Kanamkemer",
+            sub_county: 279
+        }, {
+            id: 437,
+            name: "Kaputir",
+            sub_county: 282
+        }, {
+            id: 438,
+            name: "Katilu",
+            sub_county: 282
+        }, {
+            id: 439,
+            name: "Lobokat",
+            sub_county: 282
+        }, {
+            id: 440,
+            name: "Kalapata",
+            sub_county: 282
+        }, {
+            id: 441,
+            name: "Lokichar",
+            sub_county: 282
+        }, {
+            id: 443,
+            name: "Katilia",
+            sub_county: 280
+        }, {
+            id: 445,
+            name: "Chepareria",
+            sub_county: 303
+        }, {
+            id: 446,
+            name: "Batei",
+            sub_county: 303
+        }, {
+            id: 447,
+            name: "Lelan",
+            sub_county: 303
+        }, {
+            id: 448,
+            name: "Tapach",
+            sub_county: 303
+        }, {
+            id: 449,
+            name: "El-Barta",
+            sub_county: 252
+        }, {
+            id: 450,
+            name: "Nachola",
+            sub_county: 252
+        }, {
+            id: 451,
+            name: "Ndoto",
+            sub_county: 252
+        }, {
+            id: 452,
+            name: "Nyiro",
+            sub_county: 252
+        }, {
+            id: 453,
+            name: "Angata Nayokie",
+            sub_county: 252
+        }, {
+            id: 454,
+            name: "Baawa",
+            sub_county: 252
+        }, {
+            id: 455,
+            name: "Waso",
+            sub_county: 251
+        }, {
+            id: 456,
+            name: "Wamba West",
+            sub_county: 251
+        }, {
+            id: 457,
+            name: "Wamba East",
+            sub_county: 251
+        }, {
+            id: 458,
+            name: "Wamba North",
+            sub_county: 251
+        }, {
+            id: 459,
+            name: "Kapomboi",
+            sub_county: 275
+        }, {
+            id: 460,
+            name: "Kwanza",
+            sub_county: 275
+        }, {
+            id: 461,
+            name: "Keiyo",
+            sub_county: 275
+        }, {
+            id: 462,
+            name: "Bidii",
+            sub_county: 275
+        }, {
+            id: 463,
+            name: "Chepchoina",
+            sub_county: 273
+        }, {
+            id: 464,
+            name: "Endebess",
+            sub_county: 273
+        }, {
+            id: 465,
+            name: "Matumbei",
+            sub_county: 273
+        }, {
+            id: 466,
+            name: "Kinyoro",
+            sub_county: 276
+        }, {
+            id: 467,
+            name: "Matisi",
+            sub_county: 276
+        }, {
+            id: 468,
+            name: "Tuwani",
+            sub_county: 276
+        }, {
+            id: 469,
+            name: "Saboti",
+            sub_county: 276
+        }, {
+            id: 470,
+            name: "Machewa",
+            sub_county: 276
+        }, {
+            id: 471,
+            name: "Kiminini",
+            sub_county: 274
+        }, {
+            id: 472,
+            name: "Waitaluk",
+            sub_county: 274
+        }, {
+            id: 473,
+            name: "Sirende",
+            sub_county: 274
+        }, {
+            id: 474,
+            name: "Hospital",
+            sub_county: 274
+        }, {
+            id: 475,
+            name: "Sikhendu",
+            sub_county: 274
+        }, {
+            id: 476,
+            name: "Nabiswa",
+            sub_county: 274
+        }, {
+            id: 477,
+            name: "Sinyerere",
+            sub_county: 272
+        }, {
+            id: 478,
+            name: "Makutano",
+            sub_county: 272
+        }, {
+            id: 479,
+            name: "Kaplamai",
+            sub_county: 272
+        }, {
+            id: 480,
+            name: "Motosiet",
+            sub_county: 272
+        }, {
+            id: 481,
+            name: "Cherangany/Suwerwa",
+            sub_county: 272
+        }, {
+            id: 482,
+            name: "Chepsiro/Kiptoror",
+            sub_county: 272
+        }, {
+            id: 483,
+            name: "Sitatunga",
+            sub_county: 272
+        }, {
+            id: 485,
+            name: "Kapkures",
+            sub_county: 288
+        }, {
+            id: 486,
+            name: "Ziwa",
+            sub_county: 288
+        }, {
+            id: 487,
+            name: "Segeroi/Barsombe",
+            sub_county: 288
+        }, {
+            id: 488,
+            name: "Kipsomba",
+            sub_county: 288
+        }, {
+            id: 489,
+            name: "Soy",
+            sub_county: 288
+        }, {
+            id: 490,
+            name: "Kuinet/Kapsuswa",
+            sub_county: 288
+        }, {
+            id: 491,
+            name: "Ngenyilel",
+            sub_county: 289
+        }, {
+            id: 492,
+            name: "Tapsagoi",
+            sub_county: 289
+        }, {
+            id: 493,
+            name: "Kamagut",
+            sub_county: 289
+        }, {
+            id: 494,
+            name: "Kiplombe",
+            sub_county: 289
+        }, {
+            id: 495,
+            name: "Kapsaos",
+            sub_county: 289
+        }, {
+            id: 497,
+            name: "Tembelio",
+            sub_county: 287
+        }, {
+            id: 498,
+            name: "Sergoit",
+            sub_county: 287
+        }, {
+            id: 499,
+            name: "Karuna/Meibeki",
+            sub_county: 287
+        }, {
+            id: 500,
+            name: "Moiben",
+            sub_county: 287
+        }, {
+            id: 501,
+            name: "Kimumu",
+            sub_county: 287
+        }, {
+            id: 502,
+            name: "Kapsoya",
+            sub_county: 284
+        }, {
+            id: 503,
+            name: "Kaptagat",
+            sub_county: 284
+        }, {
+            id: 504,
+            name: "Ainabkoi/Olare",
+            sub_county: 284
+        }, {
+            id: 505,
+            name: "Simat/Kapseret",
+            sub_county: 285
+        }, {
+            id: 506,
+            name: "Kipkenyo",
+            sub_county: 285
+        }, {
+            id: 496,
+            name: "Huruma",
+            sub_county: 289
+        }, {
+            id: 507,
+            name: "Ngeria",
+            sub_county: 285
+        }, {
+            id: 508,
+            name: "Megun",
+            sub_county: 285
+        }, {
+            id: 509,
+            name: "Langas",
+            sub_county: 285
+        }, {
+            id: 510,
+            name: "Racecourse",
+            sub_county: 286
+        }, {
+            id: 511,
+            name: "Cheptiret/Kipchamo",
+            sub_county: 286
+        }, {
+            id: 513,
+            name: "Tarakwa",
+            sub_county: 286
+        }, {
+            id: 514,
+            name: "Kapyego",
+            sub_county: 32
+        }, {
+            id: 515,
+            name: "Sambirir",
+            sub_county: 32
+        }, {
+            id: 516,
+            name: "Endo",
+            sub_county: 32
+        }, {
+            id: 517,
+            name: "Embobut/Embulot",
+            sub_county: 32
+        }, {
+            id: 518,
+            name: "Lelan",
+            sub_county: 33
+        }, {
+            id: 519,
+            name: "Sengwer",
+            sub_county: 33
+        }, {
+            id: 521,
+            name: "Moiben/Kuserwo",
+            sub_county: 33
+        }, {
+            id: 522,
+            name: "Kapsowar",
+            sub_county: 33
+        }, {
+            id: 523,
+            name: "Arror",
+            sub_county: 33
+        }, {
+            id: 524,
+            name: "Kamariny",
+            sub_county: 30
+        }, {
+            id: 525,
+            name: "Emsoo",
+            sub_county: 30
+        }, {
+            id: 526,
+            name: "Tambach",
+            sub_county: 30
+        }, {
+            id: 527,
+            name: "Kapchemutwa",
+            sub_county: 30
+        }, {
+            id: 528,
+            name: "Kaptarakwa",
+            sub_county: 31
+        }, {
+            id: 529,
+            name: "Chepkorio",
+            sub_county: 31
+        }, {
+            id: 530,
+            name: "Soy North",
+            sub_county: 31
+        }, {
+            id: 531,
+            name: "Soy South",
+            sub_county: 31
+        }, {
+            id: 532,
+            name: "Kabiemit",
+            sub_county: 31
+        }, {
+            id: 533,
+            name: "Metkei",
+            sub_county: 31
+        }, {
+            id: 534,
+            name: "Songhor/Soba",
+            sub_county: 225
+        }, {
+            id: 535,
+            name: "Tinderet",
+            sub_county: 225
+        }, {
+            id: 536,
+            name: "Chemelil/Chemase",
+            sub_county: 225
+        }, {
+            id: 537,
+            name: "Kapsimwotwo",
+            sub_county: 225
+        }, {
+            id: 538,
+            name: "Kabwareng",
+            sub_county: 220
+        }, {
+            id: 539,
+            name: "Terik",
+            sub_county: 220
+        }, {
+            id: 541,
+            name: "Kobujoi",
+            sub_county: 220
+        }, {
+            id: 542,
+            name: "Kaptumo/Kaboi",
+            sub_county: 220
+        }, {
+            id: 543,
+            name: "Koyo/Ndurio",
+            sub_county: 220
+        }, {
+            id: 544,
+            name: "Nandi Hills",
+            sub_county: 224
+        }, {
+            id: 545,
+            name: "Chepkunyuk",
+            sub_county: 224
+        }, {
+            id: 547,
+            name: "Kapchorua",
+            sub_county: 224
+        }, {
+            id: 549,
+            name: "Kosirai",
+            sub_county: 221
+        }, {
+            id: 550,
+            name: "Lelmoko/Ngechek",
+            sub_county: 221
+        }, {
+            id: 551,
+            name: "Kaptel/Kamoiywo",
+            sub_county: 221
+        }, {
+            id: 552,
+            name: "Kiptuiya",
+            sub_county: 221
+        }, {
+            id: 553,
+            name: "Chepkumia",
+            sub_county: 222
+        }, {
+            id: 554,
+            name: "Kapkangani",
+            sub_county: 222
+        }, {
+            id: 555,
+            name: "Kapsabet",
+            sub_county: 222
+        }, {
+            id: 556,
+            name: "Kilibwoni",
+            sub_county: 222
+        }, {
+            id: 557,
+            name: "Chepterwai",
+            sub_county: 223
+        }, {
+            id: 558,
+            name: "Kipkaren",
+            sub_county: 223
+        }, {
+            id: 559,
+            name: "Kurgung/Surungai",
+            sub_county: 223
+        }, {
+            id: 560,
+            name: "Kabiyet",
+            sub_county: 223
+        }, {
+            id: 561,
+            name: "Ndalat",
+            sub_county: 223
+        }, {
+            id: 562,
+            name: "Kabisaga",
+            sub_county: 223
+        }, {
+            id: 563,
+            name: "Sangalo/Kebulonik",
+            sub_county: 223
+        }, {
+            id: 564,
+            name: "Barwessa",
+            sub_county: 2
+        }, {
+            id: 565,
+            name: "Kabartonjo",
+            sub_county: 2
+        }, {
+            id: 566,
+            name: "Saimoi/Kipsaraman",
+            sub_county: 2
+        }, {
+            id: 567,
+            name: "Saimo/Soi",
+            sub_county: 2
+        }, {
+            id: 568,
+            name: "Bartabwa",
+            sub_county: 2
+        }, {
+            id: 569,
+            name: "Kabarnet",
+            sub_county: 1
+        }, {
+            id: 570,
+            name: "Sacho",
+            sub_county: 1
+        }, {
+            id: 571,
+            name: "Tenges",
+            sub_county: 1
+        }, {
+            id: 573,
+            name: "Kapropita",
+            sub_county: 1
+        }, {
+            id: 574,
+            name: "Mogotio",
+            sub_county: 6
+        }, {
+            id: 575,
+            name: "Emining",
+            sub_county: 6
+        }, {
+            id: 576,
+            name: "Kisanana",
+            sub_county: 6
+        }, {
+            id: 578,
+            name: "Rumuruti Township",
+            sub_county: 133
+        }, {
+            id: 579,
+            name: "Githiga",
+            sub_county: 133
+        }, {
+            id: 580,
+            name: "Marmanet",
+            sub_county: 133
+        }, {
+            id: 581,
+            name: "Igwamiti",
+            sub_county: 133
+        }, {
+            id: 582,
+            name: "Salama",
+            sub_county: 133
+        }, {
+            id: 583,
+            name: "Ngobit",
+            sub_county: 131
+        }, {
+            id: 584,
+            name: "Tigithi",
+            sub_county: 131
+        }, {
+            id: 585,
+            name: "Thingithu",
+            sub_county: 131
+        }, {
+            id: 586,
+            name: "Nanyuki",
+            sub_county: 131
+        }, {
+            id: 587,
+            name: "Umande",
+            sub_county: 131
+        }, {
+            id: 588,
+            name: "Sosian",
+            sub_county: 132
+        }, {
+            id: 589,
+            name: "Segera",
+            sub_county: 132
+        }, {
+            id: 590,
+            name: "Mugogodo East",
+            sub_county: 132
+        }, {
+            id: 591,
+            name: "Mariashoni",
+            sub_county: 212
+        }, {
+            id: 592,
+            name: "Elburgon",
+            sub_county: 212
+        }, {
+            id: 593,
+            name: "Turi",
+            sub_county: 212
+        }, {
+            id: 594,
+            name: "Molo",
+            sub_county: 212
+        }, {
+            id: 595,
+            name: "Mau Narok",
+            sub_county: 217
+        }, {
+            id: 596,
+            name: "Mauche",
+            sub_county: 217
+        }, {
+            id: 597,
+            name: "Kihingo",
+            sub_county: 217
+        }, {
+            id: 599,
+            name: "Lare",
+            sub_county: 217
+        }, {
+            id: 600,
+            name: "Njoro",
+            sub_county: 217
+        }, {
+            id: 601,
+            name: "Biashara",
+            sub_county: 213
+        }, {
+            id: 602,
+            name: "Hellsgate",
+            sub_county: 213
+        }, {
+            id: 603,
+            name: "Lake View",
+            sub_county: 213
+        }, {
+            id: 604,
+            name: "Mai Mahiu",
+            sub_county: 213
+        }, {
+            id: 605,
+            name: "Maeilla",
+            sub_county: 213
+        }, {
+            id: 606,
+            name: "Olkaria",
+            sub_county: 213
+        }, {
+            id: 607,
+            name: "Naivasha East",
+            sub_county: 213
+        }, {
+            id: 609,
+            name: "Gilgil",
+            sub_county: 209
+        }, {
+            id: 610,
+            name: "Elementaita",
+            sub_county: 209
+        }, {
+            id: 611,
+            name: "Mbaruk/Eburu",
+            sub_county: 209
+        }, {
+            id: 612,
+            name: "Malewa West",
+            sub_county: 209
+        }, {
+            id: 614,
+            name: "Amalo",
+            sub_county: 211
+        }, {
+            id: 615,
+            name: "Keringet",
+            sub_county: 211
+        }, {
+            id: 616,
+            name: "Kiptagich",
+            sub_county: 211
+        }, {
+            id: 617,
+            name: "Tinet",
+            sub_county: 211
+        }, {
+            id: 618,
+            name: "Kiptororo",
+            sub_county: 210
+        }, {
+            id: 619,
+            name: "Nyota",
+            sub_county: 210
+        }, {
+            id: 620,
+            name: "Sirikwa",
+            sub_county: 210
+        }, {
+            id: 621,
+            name: "Kamara",
+            sub_county: 210
+        }, {
+            id: 622,
+            name: "Subukia",
+            sub_county: 219
+        }, {
+            id: 623,
+            name: "Waseges",
+            sub_county: 219
+        }, {
+            id: 624,
+            name: "Kabazi",
+            sub_county: 219
+        }, {
+            id: 625,
+            name: "Menengai West",
+            sub_county: 218
+        }, {
+            id: 626,
+            name: "Soin",
+            sub_county: 218
+        }, {
+            id: 627,
+            name: "Visoi",
+            sub_county: 218
+        }, {
+            id: 628,
+            name: "Mosop",
+            sub_county: 218
+        }, {
+            id: 629,
+            name: "Solai",
+            sub_county: 218
+        }, {
+            id: 630,
+            name: "Olposimoru",
+            sub_county: 227
+        }, {
+            id: 631,
+            name: "Olokurto",
+            sub_county: 227
+        }, {
+            id: 632,
+            name: "Narok Town",
+            sub_county: 227
+        }, {
+            id: 633,
+            name: "Nkareta",
+            sub_county: 227
+        }, {
+            id: 634,
+            name: "Olorropil",
+            sub_county: 227
+        }, {
+            id: 635,
+            name: "Melili",
+            sub_county: 227
+        }, {
+            id: 636,
+            name: "Mosiro",
+            sub_county: 226
+        }, {
+            id: 637,
+            name: "Ildamat",
+            sub_county: 226
+        }, {
+            id: 638,
+            name: "Keekonyokie",
+            sub_county: 226
+        }, {
+            id: 639,
+            name: "Suswa",
+            sub_county: 226
+        }, {
+            id: 642,
+            name: "Melelo",
+            sub_county: 228
+        }, {
+            id: 643,
+            name: "Loita",
+            sub_county: 228
+        }, {
+            id: 644,
+            name: "Sogoo",
+            sub_county: 228
+        }, {
+            id: 645,
+            name: "Sagamian",
+            sub_county: 228
+        }, {
+            id: 646,
+            name: "Ilmotiook",
+            sub_county: 229
+        }, {
+            id: 647,
+            name: "Mara",
+            sub_county: 229
+        }, {
+            id: 648,
+            name: "Siana",
+            sub_county: 229
+        }, {
+            id: 649,
+            name: "Naikarra",
+            sub_county: 229
+        }, {
+            id: 650,
+            name: "Olkeri",
+            sub_county: 58
+        }, {
+            id: 651,
+            name: "Ongata Rongai",
+            sub_county: 58
+        }, {
+            id: 652,
+            name: "Nkaimurunya",
+            sub_county: 58
+        }, {
+            id: 653,
+            name: "Oloolua",
+            sub_county: 58
+        }, {
+            id: 654,
+            name: "Ngong",
+            sub_county: 58
+        }, {
+            id: 655,
+            name: "Purko",
+            sub_county: 56
+        }, {
+            id: 656,
+            name: "Ildamat",
+            sub_county: 56
+        }, {
+            id: 657,
+            name: "Dalalekutuk",
+            sub_county: 56
+        }, {
+            id: 658,
+            name: "Matapato North",
+            sub_county: 56
+        }, {
+            id: 659,
+            name: "Matapato South",
+            sub_county: 56
+        }, {
+            id: 660,
+            name: "Kaputiei North",
+            sub_county: 57
+        }, {
+            id: 661,
+            name: "Kitengela",
+            sub_county: 57
+        }, {
+            id: 662,
+            name: "Oloosirkon/Sholinke",
+            sub_county: 57
+        }, {
+            id: 664,
+            name: "Imaroro",
+            sub_county: 57
+        }, {
+            id: 665,
+            name: "Keekonyokie",
+            sub_county: 59
+        }, {
+            id: 666,
+            name: "Iloodokilani",
+            sub_county: 59
+        }, {
+            id: 667,
+            name: "Magadi",
+            sub_county: 59
+        }, {
+            id: 669,
+            name: "Mosiro",
+            sub_county: 59
+        }, {
+            id: 670,
+            name: "Londiani",
+            sub_county: 76
+        }, {
+            id: 671,
+            name: "Kedowa/Kimugul",
+            sub_county: 76
+        }, {
+            id: 672,
+            name: "Chepseon",
+            sub_county: 76
+        }, {
+            id: 673,
+            name: "Tendeno/Sorget",
+            sub_county: 76
+        }, {
+            id: 674,
+            name: "Kunyak",
+            sub_county: 77
+        }, {
+            id: 675,
+            name: "Kamasian",
+            sub_county: 77
+        }, {
+            id: 676,
+            name: "Chilchila",
+            sub_county: 77
+        }, {
+            id: 677,
+            name: "Kapsoit",
+            sub_county: 73
+        }, {
+            id: 678,
+            name: "Ainamoi",
+            sub_county: 73
+        }, {
+            id: 679,
+            name: "Kapkugerwet",
+            sub_county: 73
+        }, {
+            id: 680,
+            name: "Kipchebor",
+            sub_county: 73
+        }, {
+            id: 681,
+            name: "Kipchimchim",
+            sub_county: 73
+        }, {
+            id: 682,
+            name: "Kapsaos",
+            sub_county: 73
+        }, {
+            id: 683,
+            name: "Kisiara",
+            sub_county: 75
+        }, {
+            id: 684,
+            name: "Tebesonik",
+            sub_county: 75
+        }, {
+            id: 685,
+            name: "Cheboin",
+            sub_county: 75
+        }, {
+            id: 686,
+            name: "Chemosot",
+            sub_county: 75
+        }, {
+            id: 687,
+            name: "Litein",
+            sub_county: 75
+        }, {
+            id: 688,
+            name: "Cheplanget",
+            sub_county: 75
+        }, {
+            id: 689,
+            name: "Kapkatet",
+            sub_county: 75
+        }, {
+            id: 690,
+            name: "Waldai",
+            sub_county: 74
+        }, {
+            id: 691,
+            name: "Kabianga",
+            sub_county: 74
+        }, {
+            id: 692,
+            name: "Cheptororiet/Seretut",
+            sub_county: 74
+        }, {
+            id: 693,
+            name: "Chaik",
+            sub_county: 74
+        }, {
+            id: 694,
+            name: "Kapsuser",
+            sub_county: 74
+        }, {
+            id: 695,
+            name: "Sigowet",
+            sub_county: 78
+        }, {
+            id: 696,
+            name: "Kaplelartet",
+            sub_county: 78
+        }, {
+            id: 697,
+            name: "Soliat",
+            sub_county: 78
+        }, {
+            id: 698,
+            name: "Soin",
+            sub_county: 78
+        }, {
+            id: 699,
+            name: "Ndanai/Abosi",
+            sub_county: 12
+        }, {
+            id: 700,
+            name: "Chemagel",
+            sub_county: 12
+        }, {
+            id: 701,
+            name: "Kipsonoi",
+            sub_county: 12
+        }, {
+            id: 702,
+            name: "Kapletundo",
+            sub_county: 12
+        }, {
+            id: 703,
+            name: "Rongena/Manaret",
+            sub_county: 12
+        }, {
+            id: 705,
+            name: "Nyangores",
+            sub_county: 10
+        }, {
+            id: 706,
+            name: "Sigor",
+            sub_county: 10
+        }, {
+            id: 707,
+            name: "Chebunyo",
+            sub_county: 10
+        }, {
+            id: 708,
+            name: "Siongiroi",
+            sub_county: 10
+        }, {
+            id: 709,
+            name: "Merigi",
+            sub_county: 9
+        }, {
+            id: 710,
+            name: "Kembu",
+            sub_county: 9
+        }, {
+            id: 711,
+            name: "Longisa",
+            sub_county: 9
+        }, {
+            id: 712,
+            name: "Kipreres",
+            sub_county: 9
+        }, {
+            id: 713,
+            name: "Chemaner",
+            sub_county: 9
+        }, {
+            id: 714,
+            name: "Silibwet Township",
+            sub_county: 8
+        }, {
+            id: 715,
+            name: "Ndaraweta",
+            sub_county: 8
+        }, {
+            id: 716,
+            name: "Singorwet",
+            sub_county: 8
+        }, {
+            id: 717,
+            name: "Chesoen",
+            sub_county: 8
+        }, {
+            id: 718,
+            name: "Mutarakwa",
+            sub_county: 8
+        }, {
+            id: 719,
+            name: "Chepchabas",
+            sub_county: 11
+        }, {
+            id: 720,
+            name: "Kimulot",
+            sub_county: 11
+        }, {
+            id: 721,
+            name: "Mogogosiek",
+            sub_county: 11
+        }, {
+            id: 722,
+            name: "Boito",
+            sub_county: 11
+        }, {
+            id: 723,
+            name: "Embomos",
+            sub_county: 11
+        }, {
+            id: 724,
+            name: "Mautuma",
+            sub_county: 65
+        }, {
+            id: 725,
+            name: "Lugari",
+            sub_county: 65
+        }, {
+            id: 726,
+            name: "Lumakanda",
+            sub_county: 65
+        }, {
+            id: 727,
+            name: "Chekalini",
+            sub_county: 65
+        }, {
+            id: 728,
+            name: "Chevaywa",
+            sub_county: 65
+        }, {
+            id: 729,
+            name: "Lwandeti",
+            sub_county: 65
+        }, {
+            id: 730,
+            name: "Likuyani",
+            sub_county: 64
+        }, {
+            id: 731,
+            name: "Sango",
+            sub_county: 64
+        }, {
+            id: 732,
+            name: "Kongoni",
+            sub_county: 64
+        }, {
+            id: 733,
+            name: "Nzoia",
+            sub_county: 64
+        }, {
+            id: 734,
+            name: "Sinoko",
+            sub_county: 64
+        }, {
+            id: 735,
+            name: "West Kabras",
+            sub_county: 67
+        }, {
+            id: 736,
+            name: "Township",
+            sub_county: 569
+        }, {
+            id: 737,
+            name: "Burumba",
+            sub_county: 25
+        }, {
+            id: 738,
+            name: "Waberi",
+            sub_county: 41
+        }, {
+            id: 739,
+            name: "Homa Bay Central",
+            sub_county: 45
+        }, {
+            id: 740,
+            name: "Wabera",
+            sub_county: 54
+        }, {
+            id: 741,
+            name: "Shirere",
+            sub_county: 66
+        }, {
+            id: 742,
+            name: "Kitutu Central",
+            sub_county: 108
+        }, {
+            id: 743,
+            name: "Kondele",
+            sub_county: 112
+        }, {
+            id: 744,
+            name: "Mkomani",
+            sub_county: 570
+        }, {
+            id: 745,
+            name: "Machakos Central",
+            sub_county: 140
+        }, {
+            id: 746,
+            name: "Neboi",
+            sub_county: 571
+        }, {
+            id: 747,
+            name: "Marsabit Central",
+            sub_county: 161
+        }, {
+            id: 748,
+            name: "Municipality",
+            sub_county: 167
+        }, {
+            id: 749,
+            name: "Suna Central",
+            sub_county: 176
+        }, {
+            id: 750,
+            name: "Woodley/Kenyatta Golf Course",
+            sub_county: 201
+        }, {
+            id: 751,
+            name: "Hospital",
+            sub_county: 204
+        }, {
+            id: 752,
+            name: "Airbase",
+            sub_county: 199
+        }, {
+            id: 753,
+            name: "Kilimani",
+            sub_county: 192
+        }, {
+            id: 754,
+            name: "Kahawa",
+            sub_county: 205
+        }, {
+            id: 755,
+            name: "London",
+            sub_county: 216
+        }, {
+            id: 756,
+            name: "Township",
+            sub_county: 236
+        }, {
+            id: 757,
+            name: "Rurii",
+            sub_county: 572
+        }, {
+            id: 758,
+            name: "Rware",
+            sub_county: 247
+        }, {
+            id: 759,
+            name: "Iria-ini",
+            sub_county: 248
+        }, {
+            id: 760,
+            name: "Maralal",
+            sub_county: 250
+        }, {
+            id: 761,
+            name: "Siaya Township",
+            sub_county: 253
+        }, {
+            id: 762,
+            name: "Karingani",
+            sub_county: 266
+        }, {
+            id: 763,
+            name: "Lugaga-wamuluma",
+            sub_county: 294
+        }, {
+            id: 764,
+            name: "Wagberi",
+            sub_county: 573
+        }, {
+            id: 765,
+            name: "Kapenguria",
+            sub_county: 304
+        }, {
+            id: 766,
+            name: "Parklands/Highridge",
+            sub_county: 208
+        }, {
+            id: 767,
+            name: "Faza",
+            sub_county: 134
+        }, {
+            id: 768,
+            name: "Kiunga",
+            sub_county: 134
+        }, {
+            id: 769,
+            name: "Basuba",
+            sub_county: 134
+        }, {
+            id: 770,
+            name: "Shella",
+            sub_county: 570
+        }, {
+            id: 771,
+            name: "Hindi",
+            sub_county: 570
+        }, {
+            id: 772,
+            name: "Mkunumbi",
+            sub_county: 570
+        }, {
+            id: 773,
+            name: "Hongwe",
+            sub_county: 570
+        }, {
+            id: 774,
+            name: "Witu",
+            sub_county: 570
+        }, {
+            id: 775,
+            name: "Bahari",
+            sub_county: 570
+        }, {
+            id: 776,
+            name: "Galbet",
+            sub_county: 41
+        }, {
+            id: 777,
+            name: "Township",
+            sub_county: 41
+        }, {
+            id: 778,
+            name: "Iftin",
+            sub_county: 41
+        }, {
+            id: 779,
+            name: "Gurar",
+            sub_county: 298
+        }, {
+            id: 780,
+            name: "Bute",
+            sub_county: 298
+        }, {
+            id: 781,
+            name: "Korondile",
+            sub_county: 298
+        }, {
+            id: 782,
+            name: "Malkagufu",
+            sub_county: 298
+        }, {
+            id: 783,
+            name: "Batalu",
+            sub_county: 298
+        }, {
+            id: 784,
+            name: "Danaba",
+            sub_county: 298
+        }, {
+            id: 785,
+            name: "Godoma",
+            sub_county: 298
+        }, {
+            id: 786,
+            name: "Township",
+            sub_county: 573
+        }, {
+            id: 787,
+            name: "Barwago",
+            sub_county: 573
+        }, {
+            id: 788,
+            name: "Khorof/Harar",
+            sub_county: 573
+        }, {
+            id: 789,
+            name: "Elben",
+            sub_county: 296
+        }, {
+            id: 790,
+            name: "Sarman",
+            sub_county: 296
+        }, {
+            id: 791,
+            name: "Tarbaj",
+            sub_county: 296
+        }, {
+            id: 792,
+            name: "Wargadud",
+            sub_county: 296
+        }, {
+            id: 793,
+            name: "Arbajahan",
+            sub_county: 300
+        }, {
+            id: 794,
+            name: "Hadado/Athibohol",
+            sub_county: 300
+        }, {
+            id: 795,
+            name: "Ademasajide",
+            sub_county: 300
+        }, {
+            id: 796,
+            name: "Ganyure/Wagalla",
+            sub_county: 300
+        }, {
+            id: 797,
+            name: "Eldas",
+            sub_county: 295
+        }, {
+            id: 798,
+            name: "Della",
+            sub_county: 295
+        }, {
+            id: 799,
+            name: "Lakoley South/Basir",
+            sub_county: 295
+        }, {
+            id: 800,
+            name: "Elnur/Tula Tula",
+            sub_county: 295
+        }, {
+            id: 801,
+            name: "Benane",
+            sub_county: 299
+        }, {
+            id: 802,
+            name: "Burder",
+            sub_county: 299
+        }, {
+            id: 803,
+            name: "Dadaja Bulla",
+            sub_county: 299
+        }, {
+            id: 804,
+            name: "Habasswein",
+            sub_county: 299
+        }, {
+            id: 805,
+            name: "Lagboghoi South",
+            sub_county: 299
+        }, {
+            id: 806,
+            name: "Ibrahim Ure",
+            sub_county: 299
+        }, {
+            id: 807,
+            name: "Diif",
+            sub_county: 299
+        }, {
+            id: 808,
+            name: "Takaba South",
+            sub_county: 157
+        }, {
+            id: 809,
+            name: "Takaba",
+            sub_county: 157
+        }, {
+            id: 810,
+            name: "Lagsure",
+            sub_county: 157
+        }, {
+            id: 811,
+            name: "Dandu",
+            sub_county: 157
+        }, {
+            id: 812,
+            name: "Gither",
+            sub_county: 157
+        }, {
+            id: 813,
+            name: "Ashabito",
+            sub_county: 155
+        }, {
+            id: 814,
+            name: "Guticha",
+            sub_county: 155
+        }, {
+            id: 816,
+            name: "Rhamu",
+            sub_county: 155
+        }, {
+            id: 817,
+            name: "Rhamu Dimtu",
+            sub_county: 155
+        }, {
+            id: 818,
+            name: "Wargadud",
+            sub_county: 156
+        }, {
+            id: 819,
+            name: "Kutulo",
+            sub_county: 156
+        }, {
+            id: 820,
+            name: "Elwak South",
+            sub_county: 156
+        }, {
+            id: 821,
+            name: "Elwak North",
+            sub_county: 156
+        }, {
+            id: 822,
+            name: "Shimbir Fatuma",
+            sub_county: 156
+        }, {
+            id: 823,
+            name: "Arabia",
+            sub_county: 571
+        }, {
+            id: 824,
+            name: "Bulla Mpya",
+            sub_county: 571
+        }, {
+            id: 825,
+            name: "Khalalio",
+            sub_county: 571
+        }, {
+            id: 826,
+            name: "Township",
+            sub_county: 571
+        }, {
+            id: 827,
+            name: "Libehia",
+            sub_county: 153
+        }, {
+            id: 828,
+            name: "Fino",
+            sub_county: 153
+        }, {
+            id: 829,
+            name: "Lafey",
+            sub_county: 153
+        }, {
+            id: 830,
+            name: "Waranqara",
+            sub_county: 153
+        }, {
+            id: 831,
+            name: "Alungo Gof",
+            sub_county: 153
+        }, {
+            id: 832,
+            name: "Ntima East",
+            sub_county: 167
+        }, {
+            id: 833,
+            name: "Ntima West",
+            sub_county: 167
+        }, {
+            id: 834,
+            name: "Nyaki West",
+            sub_county: 167
+        }, {
+            id: 835,
+            name: "Nyaki East",
+            sub_county: 167
+        }, {
+            id: 836,
+            name: "Mwangathia",
+            sub_county: 166
+        }, {
+            id: 837,
+            name: "Abothuguchi Central",
+            sub_county: 166
+        }, {
+            id: 838,
+            name: "Abothuguchi West",
+            sub_county: 166
+        }, {
+            id: 839,
+            name: "Kiagu",
+            sub_county: 166
+        }, {
+            id: 840,
+            name: "Mitunguu",
+            sub_county: 168
+        }, {
+            id: 841,
+            name: "Igoji East",
+            sub_county: 168
+        }, {
+            id: 842,
+            name: "Igoji West",
+            sub_county: 168
+        }, {
+            id: 843,
+            name: "Abogeta East",
+            sub_county: 168
+        }, {
+            id: 844,
+            name: "Abogeta West",
+            sub_county: 168
+        }, {
+            id: 845,
+            name: "Nkuene",
+            sub_county: 168
+        }, {
+            id: 846,
+            name: "Kalama",
+            sub_county: 140
+        }, {
+            id: 847,
+            name: "Mua",
+            sub_county: 140
+        }, {
+            id: 848,
+            name: "Mutituni",
+            sub_county: 140
+        }, {
+            id: 849,
+            name: "Mumbuni North",
+            sub_county: 140
+        }, {
+            id: 850,
+            name: "Muvuti/Kiima-Kimwe",
+            sub_county: 140
+        }, {
+            id: 851,
+            name: "Kola",
+            sub_county: 140
+        }, {
+            id: 852,
+            name: "Karau",
+            sub_county: 572
+        }, {
+            id: 853,
+            name: "Kanjuiri Range",
+            sub_county: 572
+        }, {
+            id: 854,
+            name: "Mirangine",
+            sub_county: 572
+        }, {
+            id: 855,
+            name: "Kaimbaga",
+            sub_county: 572
+        }, {
+            id: 856,
+            name: "Gathanji",
+            sub_county: 240
+        }, {
+            id: 857,
+            name: "Gatimu",
+            sub_county: 240
+        }, {
+            id: 858,
+            name: "Weru",
+            sub_county: 240
+        }, {
+            id: 859,
+            name: "Charagita",
+            sub_county: 240
+        }, {
+            id: 860,
+            name: "Gikondi",
+            sub_county: 246
+        }, {
+            id: 861,
+            name: "Rugi",
+            sub_county: 246
+        }, {
+            id: 865,
+            name: "Ndumberi",
+            sub_county: 85
+        }, {
+            id: 866,
+            name: "Riabai",
+            sub_county: 85
+        }, {
+            id: 867,
+            name: "Township",
+            sub_county: 85
+        }, {
+            id: 869,
+            name: "Turkwel",
+            sub_county: 278
+        }, {
+            id: 870,
+            name: "Loima",
+            sub_county: 278
+        }, {
+            id: 875,
+            name: "Silale",
+            sub_county: 7
+        }, {
+            id: 876,
+            name: "Loiyamorok",
+            sub_county: 7
+        }, {
+            id: 877,
+            name: "Tangulbei/Korossi",
+            sub_county: 7
+        }, {
+            id: 878,
+            name: "Churo/Amaya",
+            sub_county: 7
+        }, {
+            id: 883,
+            name: "Barut",
+            sub_county: 216
+        }, {
+            id: 884,
+            name: "Kaptembwo",
+            sub_county: 216
+        }, {
+            id: 885,
+            name: "Kapkures",
+            sub_county: 216
+        }, {
+            id: 886,
+            name: "Rhoda",
+            sub_county: 216
+        }, {
+            id: 887,
+            name: "Shaabab",
+            sub_county: 216
+        }, {
+            id: 888,
+            name: "Biashara",
+            sub_county: 214
+        }, {
+            id: 889,
+            name: "Kivumbuni",
+            sub_county: 214
+        }, {
+            id: 890,
+            name: "Flamingo",
+            sub_county: 214
+        }, {
+            id: 891,
+            name: "Menengai",
+            sub_county: 214
+        }, {
+            id: 892,
+            name: "Nakuru East",
+            sub_county: 214
+        }, {
+            id: 893,
+            name: "Ewalel/Chapchap",
+            sub_county: 1
+        }, {
+            id: 894,
+            name: "Koibatek",
+            sub_county: 4
+        }, {
+            id: 895,
+            name: "Lembus",
+            sub_county: 4
+        }, {
+            id: 896,
+            name: "Lembus Kwen",
+            sub_county: 4
+        }, {
+            id: 897,
+            name: "Lembus/Perkerra",
+            sub_county: 4
+        }, {
+            id: 898,
+            name: "Mumberes/Maji Mazuri",
+            sub_county: 4
+        }, {
+            id: 899,
+            name: "Ravine",
+            sub_county: 4
+        }, {
+            id: 900,
+            name: "Kong'asis",
+            sub_county: 10
+        }, {
+            id: 901,
+            name: "Bokoli",
+            sub_county: 22
+        }, {
+            id: 902,
+            name: "Bukembe East",
+            sub_county: 569
+        }, {
+            id: 903,
+            name: "Bukembe West",
+            sub_county: 569
+        }, {
+            id: 904,
+            name: "Bumula",
+            sub_county: 13
+        }, {
+            id: 905,
+            name: "Cheptais",
+            sub_county: 14
+        }, {
+            id: 906,
+            name: "Chepyuk",
+            sub_county: 14
+        }, {
+            id: 907,
+            name: "Chesikaki",
+            sub_county: 14
+        }, {
+            id: 908,
+            name: "East Sang'alo",
+            sub_county: 569
+        }, {
+            id: 909,
+            name: "Elgon",
+            sub_county: 18
+        }, {
+            id: 910,
+            name: "Kabula",
+            sub_county: 13
+        }, {
+            id: 911,
+            name: "Kamukuywa",
+            sub_county: 17
+        }, {
+            id: 912,
+            name: "Kapkateny",
+            sub_county: 14
+        }, {
+            id: 913,
+            name: "Kaptama",
+            sub_county: 18
+        }, {
+            id: 914,
+            name: "Khalaba",
+            sub_county: 569
+        }, {
+            id: 915,
+            name: "Khasoko",
+            sub_county: 13
+        }, {
+            id: 916,
+            name: "Kibingei",
+            sub_county: 17
+        }, {
+            id: 917,
+            name: "Kimaeti",
+            sub_county: 13
+        }, {
+            id: 918,
+            name: "Kimilili",
+            sub_county: 17
+        }, {
+            id: 919,
+            name: "Maeni",
+            sub_county: 17
+        }, {
+            id: 920,
+            name: "Maraka",
+            sub_county: 21
+        }, {
+            id: 921,
+            name: "Marakaru/Tuuti",
+            sub_county: 569
+        }, {
+            id: 922,
+            name: "Matulo",
+            sub_county: 22
+        }, {
+            id: 923,
+            name: "Mihuu",
+            sub_county: 21
+        }, {
+            id: 924,
+            name: "Misikhu",
+            sub_county: 22
+        }, {
+            id: 925,
+            name: "Musikoma",
+            sub_county: 569
+        }, {
+            id: 926,
+            name: "Ndivisi",
+            sub_county: 21
+        }, {
+            id: 927,
+            name: "Siboti",
+            sub_county: 13
+        }, {
+            id: 928,
+            name: "Sitikho",
+            sub_county: 22
+        }, {
+            id: 929,
+            name: "South Bukusu",
+            sub_county: 13
+        }, {
+            id: 930,
+            name: "West Bukusu",
+            sub_county: 13
+        }, {
+            id: 931,
+            name: "West Sang'alo",
+            sub_county: 569
+        }, {
+            id: 932,
+            name: "Ageng'a Nanguba",
+            sub_county: 27
+        }, {
+            id: 933,
+            name: "Amukura Central",
+            sub_county: 29
+        }, {
+            id: 934,
+            name: "Amukura East",
+            sub_county: 29
+        }, {
+            id: 935,
+            name: "Amukura West",
+            sub_county: 29
+        }, {
+            id: 936,
+            name: "Ang'orom",
+            sub_county: 29
+        }, {
+            id: 937,
+            name: "Ang'urai East",
+            sub_county: 28
+        }, {
+            id: 938,
+            name: "Ang'urai North",
+            sub_county: 28
+        }, {
+            id: 939,
+            name: "Ang'urai South",
+            sub_county: 28
+        }, {
+            id: 940,
+            name: "Bukhayo Central",
+            sub_county: 26
+        }, {
+            id: 941,
+            name: "Bukhayo East",
+            sub_county: 26
+        }, {
+            id: 942,
+            name: "Bukhayo North/Walatsi",
+            sub_county: 26
+        }, {
+            id: 943,
+            name: "Bukhayo West",
+            sub_county: 25
+        }, {
+            id: 944,
+            name: "Bunyala Central",
+            sub_county: 23
+        }, {
+            id: 945,
+            name: "Bunyala North",
+            sub_county: 23
+        }, {
+            id: 946,
+            name: "Bunyala South",
+            sub_county: 23
+        }, {
+            id: 947,
+            name: "Bunyala West",
+            sub_county: 23
+        }, {
+            id: 948,
+            name: "Busibwabo",
+            sub_county: 25
+        }, {
+            id: 949,
+            name: "Bwiri",
+            sub_county: 27
+        }, {
+            id: 950,
+            name: "Chakol North",
+            sub_county: 29
+        }, {
+            id: 951,
+            name: "Chakol South",
+            sub_county: 29
+        }, {
+            id: 952,
+            name: "Elugulu",
+            sub_county: 24
+        }, {
+            id: 953,
+            name: "Kingandole",
+            sub_county: 24
+        }, {
+            id: 954,
+            name: "Malaba Central",
+            sub_county: 28
+        }, {
+            id: 955,
+            name: "Malaba North",
+            sub_county: 28
+        }, {
+            id: 956,
+            name: "Malaba South",
+            sub_county: 28
+        }, {
+            id: 957,
+            name: "Marachi Central",
+            sub_county: 24
+        }, {
+            id: 958,
+            name: "Marachi East",
+            sub_county: 24
+        }, {
+            id: 959,
+            name: "Marachi North",
+            sub_county: 24
+        }, {
+            id: 960,
+            name: "Marachi West",
+            sub_county: 24
+        }, {
+            id: 961,
+            name: "Matayos South",
+            sub_county: 25
+        }, {
+            id: 962,
+            name: "Mayenje",
+            sub_county: 25
+        }, {
+            id: 963,
+            name: "Nambale",
+            sub_county: 26
+        }, {
+            id: 964,
+            name: "Namboboto-nambuku",
+            sub_county: 27
+        }, {
+            id: 965,
+            name: "Nangina",
+            sub_county: 27
+        }, {
+            id: 966,
+            name: "Cherang'any/Chebororwa",
+            sub_county: 33
+        }, {
+            id: 967,
+            name: "Central Ward",
+            sub_county: 37
+        }, {
+            id: 968,
+            name: "Kagaari North",
+            sub_county: 37
+        }, {
+            id: 969,
+            name: "Kagaari South",
+            sub_county: 37
+        }, {
+            id: 970,
+            name: "Ruguru-ngandori",
+            sub_county: 34
+        }, {
+            id: 971,
+            name: "Central Kasipul",
+            sub_county: 50
+        }, {
+            id: 972,
+            name: "East Gem",
+            sub_county: 51
+        }, {
+            id: 973,
+            name: "East Kamagak",
+            sub_county: 50
+        }, {
+            id: 974,
+            name: "Gembe",
+            sub_county: 48
+        }, {
+            id: 975,
+            name: "Gwassi North",
+            sub_county: 52
+        }, {
+            id: 976,
+            name: "Gwassi South",
+            sub_county: 52
+        }, {
+            id: 977,
+            name: "Homa Bay Arujo",
+            sub_county: 45
+        }, {
+            id: 978,
+            name: "Homa Bay East",
+            sub_county: 45
+        }, {
+            id: 979,
+            name: "Homa Bay West",
+            sub_county: 45
+        }, {
+            id: 980,
+            name: "Kabondo East",
+            sub_county: 46
+        }, {
+            id: 981,
+            name: "Kabondo West",
+            sub_county: 46
+        }, {
+            id: 982,
+            name: "Kabouch North",
+            sub_county: 49
+        }, {
+            id: 983,
+            name: "Kabuoch South/Pala",
+            sub_county: 49
+        }, {
+            id: 984,
+            name: "Kagan",
+            sub_county: 51
+        }, {
+            id: 985,
+            name: "Kaksingiri West",
+            sub_county: 52
+        }, {
+            id: 986,
+            name: "Kanyadoto",
+            sub_county: 49
+        }, {
+            id: 987,
+            name: "Kanyamwa Kologi",
+            sub_county: 49
+        }, {
+            id: 988,
+            name: "Kanyamwa Kosewe",
+            sub_county: 49
+        }, {
+            id: 989,
+            name: "Kanyikela",
+            sub_county: 49
+        }, {
+            id: 990,
+            name: "Kasgunga",
+            sub_county: 48
+        }, {
+            id: 991,
+            name: "Kochia",
+            sub_county: 51
+        }, {
+            id: 992,
+            name: "Kojwach",
+            sub_county: 46
+        }, {
+            id: 993,
+            name: "Kokwanyo/Kakelo",
+            sub_county: 46
+        }, {
+            id: 994,
+            name: "Kwabwai",
+            sub_county: 49
+        }, {
+            id: 995,
+            name: "Lambwe",
+            sub_county: 48
+        }, {
+            id: 996,
+            name: "Mfangano Island",
+            sub_county: 48
+        }, {
+            id: 997,
+            name: "Ruma-kaksingiri East",
+            sub_county: 52
+        }, {
+            id: 998,
+            name: "Rusinga Island",
+            sub_county: 48
+        }, {
+            id: 999,
+            name: "South Kasipul",
+            sub_county: 50
+        }, {
+            id: 1e3,
+            name: "West Gem",
+            sub_county: 51
+        }, {
+            id: 1001,
+            name: "West Kamagak",
+            sub_county: 50
+        }, {
+            id: 1002,
+            name: "West Kasipul",
+            sub_county: 50
+        }, {
+            id: 1003,
+            name: "Bulla Pesa",
+            sub_county: 54
+        }, {
+            id: 1004,
+            name: "Burat",
+            sub_county: 54
+        }, {
+            id: 1005,
+            name: "Chari",
+            sub_county: 55
+        }, {
+            id: 1006,
+            name: "Cherab",
+            sub_county: 55
+        }, {
+            id: 1007,
+            name: "Garba Tulla",
+            sub_county: 53
+        }, {
+            id: 1008,
+            name: "Kinna",
+            sub_county: 53
+        }, {
+            id: 1009,
+            name: "Ngare Mara",
+            sub_county: 54
+        }, {
+            id: 1010,
+            name: "Oldo/Nyiro",
+            sub_county: 54
+        }, {
+            id: 1011,
+            name: "Sericho",
+            sub_county: 53
+        }, {
+            id: 1012,
+            name: "Entonet/Lenkism",
+            sub_county: 60
+        }, {
+            id: 1013,
+            name: "Ewuaso Oo Nkidong'i",
+            sub_county: 59
+        }, {
+            id: 1014,
+            name: "Imbrikani/Eselelnkei",
+            sub_county: 60
+        }, {
+            id: 1015,
+            name: "Kenyawa-poka",
+            sub_county: 57
+        }, {
+            id: 1016,
+            name: "Kimana",
+            sub_county: 60
+        }, {
+            id: 1017,
+            name: "Kuku",
+            sub_county: 60
+        }, {
+            id: 1018,
+            name: "Rombo",
+            sub_county: 60
+        }, {
+            id: 1019,
+            name: "Bunyala East",
+            sub_county: 71
+        }, {
+            id: 1020,
+            name: "Butali/Chegulo",
+            sub_county: 67
+        }, {
+            id: 1021,
+            name: "Butsotso Central",
+            sub_county: 66
+        }, {
+            id: 1022,
+            name: "Butsotso East",
+            sub_county: 66
+        }, {
+            id: 1023,
+            name: "Butsotso South",
+            sub_county: 66
+        }, {
+            id: 1024,
+            name: "Chemuche",
+            sub_county: 67
+        }, {
+            id: 1025,
+            name: "East Kabras",
+            sub_county: 67
+        }, {
+            id: 1026,
+            name: "East Wanga",
+            sub_county: 69
+        }, {
+            id: 1027,
+            name: "Etenje",
+            sub_county: 70
+        }, {
+            id: 1028,
+            name: "Idakho Central",
+            sub_county: 62
+        }, {
+            id: 1029,
+            name: "Idakho East",
+            sub_county: 62
+        }, {
+            id: 1030,
+            name: "Idakho North",
+            sub_county: 62
+        }, {
+            id: 1031,
+            name: "Idakho South",
+            sub_county: 62
+        }, {
+            id: 1032,
+            name: "Ingoste-matiha",
+            sub_county: 71
+        }, {
+            id: 1033,
+            name: "Isukha Central",
+            sub_county: 72
+        }, {
+            id: 1034,
+            name: "Isukha East",
+            sub_county: 72
+        }, {
+            id: 1035,
+            name: "Isukha North",
+            sub_county: 72
+        }, {
+            id: 1036,
+            name: "Isukha South",
+            sub_county: 72
+        }, {
+            id: 1037,
+            name: "Isukha West",
+            sub_county: 72
+        }, {
+            id: 1038,
+            name: "Kholera",
+            sub_county: 68
+        }, {
+            id: 1039,
+            name: "Kisa Central",
+            sub_county: 63
+        }, {
+            id: 1040,
+            name: "Kisa East",
+            sub_county: 63
+        }, {
+            id: 1041,
+            name: "Kisa North",
+            sub_county: 63
+        }, {
+            id: 1042,
+            name: "Kisa West",
+            sub_county: 63
+        }, {
+            id: 1043,
+            name: "Koyonzo",
+            sub_county: 68
+        }, {
+            id: 1044,
+            name: "Lusheya/Lubinu",
+            sub_county: 69
+        }, {
+            id: 1045,
+            name: "Mahiakalo",
+            sub_county: 66
+        }, {
+            id: 1046,
+            name: "Malaha/Isongo/Makunga",
+            sub_county: 69
+        }, {
+            id: 1047,
+            name: "Manda-shivanga",
+            sub_county: 67
+        }, {
+            id: 1048,
+            name: "Marama Central",
+            sub_county: 61
+        }, {
+            id: 1049,
+            name: "Marama North",
+            sub_county: 61
+        }, {
+            id: 1050,
+            name: "Marama South",
+            sub_county: 61
+        }, {
+            id: 1051,
+            name: "Marama West",
+            sub_county: 61
+        }, {
+            id: 1052,
+            name: "Marenyo-shianda",
+            sub_county: 61
+        }, {
+            id: 1053,
+            name: "Mayoni",
+            sub_county: 68
+        }, {
+            id: 1054,
+            name: "Mumias Central",
+            sub_county: 70
+        }, {
+            id: 1055,
+            name: "Mumias North",
+            sub_county: 70
+        }, {
+            id: 1056,
+            name: "Murhanda",
+            sub_county: 72
+        }, {
+            id: 1057,
+            name: "Musanda",
+            sub_county: 70
+        }, {
+            id: 1058,
+            name: "Namamali",
+            sub_county: 68
+        }, {
+            id: 1059,
+            name: "Sheywe",
+            sub_county: 66
+        }, {
+            id: 1060,
+            name: "Shinoyi-shikomari-esumeiya",
+            sub_county: 71
+        }, {
+            id: 1061,
+            name: "Shirungu-mugai",
+            sub_county: 67
+        }, {
+            id: 1062,
+            name: "South Kabras",
+            sub_county: 67
+        }, {
+            id: 1063,
+            name: "Kipkelion",
+            sub_county: 77
+        }, {
+            id: 1064,
+            name: "Mang'u",
+            sub_county: 79
+        }, {
+            id: 1065,
+            name: "Ndarugu",
+            sub_county: 80
+        }, {
+            id: 1066,
+            name: "Ting'ang'a",
+            sub_county: 85
+        }, {
+            id: 1067,
+            name: "Rabai/Kisurutini",
+            sub_county: 97
+        }, {
+            id: 1068,
+            name: "Baragwi",
+            sub_county: 99
+        }, {
+            id: 1069,
+            name: "Gathigiriri",
+            sub_county: 101
+        }, {
+            id: 1070,
+            name: "Kabare",
+            sub_county: 99
+        }, {
+            id: 1071,
+            name: "Kangai",
+            sub_county: 100
+        }, {
+            id: 1072,
+            name: "Kariti",
+            sub_county: 102
+        }, {
+            id: 1073,
+            name: "Karumandi",
+            sub_county: 99
+        }, {
+            id: 1074,
+            name: "Kiine",
+            sub_county: 102
+        }, {
+            id: 1075,
+            name: "Mukure",
+            sub_county: 102
+        }, {
+            id: 1076,
+            name: "Murinduko",
+            sub_county: 101
+        }, {
+            id: 1077,
+            name: "Mutithi",
+            sub_county: 100
+        }, {
+            id: 1078,
+            name: "Ngariama",
+            sub_county: 99
+        }, {
+            id: 1079,
+            name: "Njukiine",
+            sub_county: 99
+        }, {
+            id: 1080,
+            name: "Nyangati",
+            sub_county: 101
+        }, {
+            id: 1081,
+            name: "Tebere",
+            sub_county: 101
+        }, {
+            id: 1082,
+            name: "Thiba",
+            sub_county: 100
+        }, {
+            id: 1083,
+            name: "Wamumu",
+            sub_county: 100
+        }, {
+            id: 1084,
+            name: "Basi Central",
+            sub_county: 103
+        }, {
+            id: 1085,
+            name: "Bassi Bogetaorio",
+            sub_county: 103
+        }, {
+            id: 1086,
+            name: "Birongo",
+            sub_county: 109
+        }, {
+            id: 1087,
+            name: "Bobaracho",
+            sub_county: 109
+        }, {
+            id: 1088,
+            name: "Bobasi Chache",
+            sub_county: 103
+        }, {
+            id: 1089,
+            name: "Bobasi/Boitangare",
+            sub_county: 103
+        }, {
+            id: 1090,
+            name: "Bogeka",
+            sub_county: 108
+        }, {
+            id: 1091,
+            name: "Bogetenga",
+            sub_county: 111
+        }, {
+            id: 1092,
+            name: "Bogiakumu",
+            sub_county: 106
+        }, {
+            id: 1093,
+            name: "Bogusero",
+            sub_county: 108
+        }, {
+            id: 1094,
+            name: "Boikanga",
+            sub_county: 111
+        }, {
+            id: 1095,
+            name: "Bokimonge",
+            sub_county: 104
+        }, {
+            id: 1096,
+            name: "Bomariba",
+            sub_county: 106
+        }, {
+            id: 1097,
+            name: "Bombaba Borabu",
+            sub_county: 104
+        }, {
+            id: 1098,
+            name: "Bomorenda",
+            sub_county: 106
+        }, {
+            id: 1099,
+            name: "Boochi Borabu",
+            sub_county: 104
+        }, {
+            id: 1100,
+            name: "Boochi/Tendere",
+            sub_county: 105
+        }, {
+            id: 1101,
+            name: "Borabu/Chitago",
+            sub_county: 111
+        }, {
+            id: 1102,
+            name: "Bosoti/Sengera",
+            sub_county: 105
+        }, {
+            id: 1103,
+            name: "Gesusu",
+            sub_county: 110
+        }, {
+            id: 1104,
+            name: "Getenga",
+            sub_county: 111
+        }, {
+            id: 1105,
+            name: "Ibeno",
+            sub_county: 109
+        }, {
+            id: 1106,
+            name: "Ichuni",
+            sub_county: 110
+        }, {
+            id: 1107,
+            name: "Kegogi",
+            sub_county: 107
+        }, {
+            id: 1108,
+            name: "Keumbu",
+            sub_county: 109
+        }, {
+            id: 1109,
+            name: "Kiamokama",
+            sub_county: 110
+        }, {
+            id: 1110,
+            name: "Kiogoro",
+            sub_county: 109
+        }, {
+            id: 1111,
+            name: "Kisii Central",
+            sub_county: 109
+        }, {
+            id: 1112,
+            name: "Magenche",
+            sub_county: 104
+        }, {
+            id: 1113,
+            name: "Majoge Basi",
+            sub_county: 105
+        }, {
+            id: 1114,
+            name: "Marani",
+            sub_county: 107
+        }, {
+            id: 1115,
+            name: "Masige East",
+            sub_county: 103
+        }, {
+            id: 1116,
+            name: "Masige West",
+            sub_county: 103
+        }, {
+            id: 1117,
+            name: "Masimba",
+            sub_county: 110
+        }, {
+            id: 1118,
+            name: "Monyerero",
+            sub_county: 107
+        }, {
+            id: 1119,
+            name: "Moticho",
+            sub_county: 111
+        }, {
+            id: 1120,
+            name: "Nyacheki",
+            sub_county: 103
+        }, {
+            id: 1121,
+            name: "Nyakoe",
+            sub_county: 108
+        }, {
+            id: 1122,
+            name: "Nyamasibi",
+            sub_county: 110
+        }, {
+            id: 1123,
+            name: "Nyatieko",
+            sub_county: 108
+        }, {
+            id: 1124,
+            name: "Riana",
+            sub_county: 106
+        }, {
+            id: 1125,
+            name: "Sameta/Mokwerero",
+            sub_county: 103
+        }, {
+            id: 1126,
+            name: "Sensi",
+            sub_county: 107
+        }, {
+            id: 1127,
+            name: "Tabaka",
+            sub_county: 111
+        }, {
+            id: 1128,
+            name: "Ahero",
+            sub_county: 117
+        }, {
+            id: 1129,
+            name: "Awasi/Onjiko",
+            sub_county: 117
+        }, {
+            id: 1130,
+            name: "Central Kisumu",
+            sub_county: 114
+        }, {
+            id: 1131,
+            name: "Central Nyakach",
+            sub_county: 116
+        }, {
+            id: 1132,
+            name: "Central Seme",
+            sub_county: 118
+        }, {
+            id: 1133,
+            name: "Chemelil",
+            sub_county: 115
+        }, {
+            id: 1134,
+            name: "East Kano/Wawidhi",
+            sub_county: 117
+        }, {
+            id: 1135,
+            name: "East Seme",
+            sub_county: 118
+        }, {
+            id: 1136,
+            name: "Kabonyo/Kanyagwai",
+            sub_county: 117
+        }, {
+            id: 1137,
+            name: "Kajulu",
+            sub_county: 113
+        }, {
+            id: 1138,
+            name: "Kisumu North",
+            sub_county: 114
+        }, {
+            id: 1139,
+            name: "Kobura",
+            sub_county: 117
+        }, {
+            id: 1140,
+            name: "Kolwa Central",
+            sub_county: 113
+        }, {
+            id: 1141,
+            name: "Kolwa East",
+            sub_county: 113
+        }, {
+            id: 1142,
+            name: "Manyatta B",
+            sub_county: 113
+        }, {
+            id: 1143,
+            name: "Market Milimani",
+            sub_county: 112
+        }, {
+            id: 1144,
+            name: "Masogo/Nyang'oma",
+            sub_county: 115
+        }, {
+            id: 1145,
+            name: "Migosi",
+            sub_county: 112
+        }, {
+            id: 1146,
+            name: "Miwani",
+            sub_county: 115
+        }, {
+            id: 1147,
+            name: "Muhoroni Koru",
+            sub_county: 115
+        }, {
+            id: 1148,
+            name: "North Nyakach",
+            sub_county: 116
+        }, {
+            id: 1149,
+            name: "North Seme",
+            sub_county: 118
+        }, {
+            id: 1150,
+            name: "North West Kisumu",
+            sub_county: 114
+        }, {
+            id: 1151,
+            name: "Nyalenda B",
+            sub_county: 112
+        }, {
+            id: 1152,
+            name: "Ombeyi",
+            sub_county: 115
+        }, {
+            id: 1153,
+            name: "Railways",
+            sub_county: 112
+        }, {
+            id: 1154,
+            name: "Shauri Moyo Kaloleni",
+            sub_county: 112
+        }, {
+            id: 1155,
+            name: "South East Nyakach",
+            sub_county: 116
+        }, {
+            id: 1156,
+            name: "South West Kisumu",
+            sub_county: 114
+        }, {
+            id: 1157,
+            name: "South West Nyakach",
+            sub_county: 116
+        }, {
+            id: 1158,
+            name: "West Kisumu",
+            sub_county: 114
+        }, {
+            id: 1159,
+            name: "West Nyakach",
+            sub_county: 116
+        }, {
+            id: 1160,
+            name: "West Seme",
+            sub_county: 118
+        }, {
+            id: 1161,
+            name: "Kanziku",
+            sub_county: 122
+        }, {
+            id: 1162,
+            name: "Waangombeni",
+            sub_county: 129
+        }, {
+            id: 1163,
+            name: "Mugogodo West",
+            sub_county: 132
+        }, {
+            id: 1164,
+            name: "Ol-moran",
+            sub_county: 133
+        }, {
+            id: 1165,
+            name: "Athi River",
+            sub_county: 136
+        }, {
+            id: 1166,
+            name: "Kinanie",
+            sub_county: 136
+        }, {
+            id: 1167,
+            name: "Muthwani",
+            sub_county: 136
+        }, {
+            id: 1168,
+            name: "Syokimau/Mulolongo",
+            sub_county: 136
+        }, {
+            id: 1169,
+            name: "Kiteta-kisau",
+            sub_county: 150
+        }, {
+            id: 1170,
+            name: "Waia-kako",
+            sub_county: 150
+        }, {
+            id: 1171,
+            name: "Wargudud",
+            sub_county: 156
+        }, {
+            id: 1172,
+            name: "Kargi/South Horr",
+            sub_county: 158
+        }, {
+            id: 1173,
+            name: "Korr/Ngurunit",
+            sub_county: 158
+        }, {
+            id: 1174,
+            name: "Loiyangalani",
+            sub_county: 158
+        }, {
+            id: 1175,
+            name: "Akirang'ondu",
+            sub_county: 163
+        }, {
+            id: 1176,
+            name: "Kiegoi/Antubochiu",
+            sub_county: 165
+        }, {
+            id: 1177,
+            name: "Kiirua/Naari",
+            sub_county: 162
+        }, {
+            id: 1178,
+            name: "Bukira Central/Ikerege",
+            sub_county: 173
+        }, {
+            id: 1179,
+            name: "Bukira East",
+            sub_county: 173
+        }, {
+            id: 1180,
+            name: "Central Kamagambo",
+            sub_county: 175
+        }, {
+            id: 1181,
+            name: "Central Kanyamkago",
+            sub_county: 178
+        }, {
+            id: 1182,
+            name: "Central Sakwa",
+            sub_county: 171
+        }, {
+            id: 1183,
+            name: "East Kamagambo",
+            sub_county: 175
+        }, {
+            id: 1184,
+            name: "East Kanyamkago",
+            sub_county: 178
+        }, {
+            id: 1185,
+            name: "God Jope",
+            sub_county: 176
+        }, {
+            id: 1186,
+            name: "Gokeharaka/Getambwega",
+            sub_county: 172
+        }, {
+            id: 1187,
+            name: "Got Kachola",
+            sub_county: 174
+        }, {
+            id: 1188,
+            name: "Isibania",
+            sub_county: 173
+        }, {
+            id: 1189,
+            name: "Kachien'g",
+            sub_county: 174
+        }, {
+            id: 1190,
+            name: "Kakrao",
+            sub_county: 176
+        }, {
+            id: 1191,
+            name: "Kaler",
+            sub_county: 174
+        }, {
+            id: 1192,
+            name: "Kanyasa",
+            sub_county: 174
+        }, {
+            id: 1193,
+            name: "Kwa",
+            sub_county: 176
+        }, {
+            id: 1194,
+            name: "Macalder/Kanyarwanda",
+            sub_county: 174
+        }, {
+            id: 1195,
+            name: "Masaba",
+            sub_county: 173
+        }, {
+            id: 1196,
+            name: "Mokerero",
+            sub_county: 173
+        }, {
+            id: 1197,
+            name: "Muhuru",
+            sub_county: 174
+        }, {
+            id: 1198,
+            name: "North Kadem",
+            sub_county: 174
+        }, {
+            id: 1199,
+            name: "North Kamagambo",
+            sub_county: 175
+        }, {
+            id: 1200,
+            name: "North Kanyamkago",
+            sub_county: 178
+        }, {
+            id: 1201,
+            name: "North Sakwa",
+            sub_county: 171
+        }, {
+            id: 1202,
+            name: "Ntimaru East",
+            sub_county: 172
+        }, {
+            id: 1203,
+            name: "Ntimaru West",
+            sub_county: 172
+        }, {
+            id: 1204,
+            name: "Nyabasi East",
+            sub_county: 172
+        }, {
+            id: 1205,
+            name: "Nyabasi West",
+            sub_county: 172
+        }, {
+            id: 1206,
+            name: "Nyanmosense/Komosoko",
+            sub_county: 173
+        }, {
+            id: 1207,
+            name: "Ragana-oruba",
+            sub_county: 177
+        }, {
+            id: 1208,
+            name: "South Kamagambo",
+            sub_county: 175
+        }, {
+            id: 1209,
+            name: "South Kanyamkago",
+            sub_county: 178
+        }, {
+            id: 1210,
+            name: "South Sakwa",
+            sub_county: 171
+        }, {
+            id: 1211,
+            name: "Tagare",
+            sub_county: 173
+        }, {
+            id: 1212,
+            name: "Waseweta II",
+            sub_county: 177
+        }, {
+            id: 1213,
+            name: "Wasimbete",
+            sub_county: 177
+        }, {
+            id: 1214,
+            name: "West Kanyamkago",
+            sub_county: 178
+        }, {
+            id: 1215,
+            name: "West Sakwa",
+            sub_county: 171
+        }, {
+            id: 1216,
+            name: "Wiga",
+            sub_county: 177
+        }, {
+            id: 1217,
+            name: "Ziwa La Ng'ombe",
+            sub_county: 184
+        }, {
+            id: 1218,
+            name: "Kagundu-ini",
+            sub_county: 186
+        }, {
+            id: 1219,
+            name: "Kihumbu-ini",
+            sub_county: 185
+        }, {
+            id: 1220,
+            name: "Mugumo-ini",
+            sub_county: 185
+        }, {
+            id: 1221,
+            name: "Ng'araria",
+            sub_county: 186
+        }, {
+            id: 1222,
+            name: "Babandogo",
+            sub_county: 206
+        }, {
+            id: 1223,
+            name: "California",
+            sub_county: 199
+        }, {
+            id: 1224,
+            name: "Clay City",
+            sub_county: 200
+        }, {
+            id: 1225,
+            name: "Dandora Area I",
+            sub_county: 196
+        }, {
+            id: 1226,
+            name: "Dandora Area II",
+            sub_county: 196
+        }, {
+            id: 1227,
+            name: "Dandora Area III",
+            sub_county: 196
+        }, {
+            id: 1228,
+            name: "Dandora Area Iv",
+            sub_county: 196
+        }, {
+            id: 1229,
+            name: "Eastleigh North",
+            sub_county: 199
+        }, {
+            id: 1230,
+            name: "Eastleigh South",
+            sub_county: 199
+        }, {
+            id: 1231,
+            name: "Embakasi",
+            sub_county: 195
+        }, {
+            id: 1232,
+            name: "Gatina",
+            sub_county: 192
+        }, {
+            id: 1233,
+            name: "Githurai",
+            sub_county: 205
+        }, {
+            id: 1234,
+            name: "Harambee",
+            sub_county: 203
+        }, {
+            id: 1235,
+            name: "Imara Daima",
+            sub_county: 197
+        }, {
+            id: 1236,
+            name: "Kabiro",
+            sub_county: 192
+        }, {
+            id: 1237,
+            name: "Kahawa West",
+            sub_county: 205
+        }, {
+            id: 1238,
+            name: "Kangemi",
+            sub_county: 208
+        }, {
+            id: 1239,
+            name: "Karen",
+            sub_county: 202
+        }, {
+            id: 1240,
+            name: "Kariobangi North",
+            sub_county: 196
+        }, {
+            id: 1241,
+            name: "Kariobangi South",
+            sub_county: 198
+        }, {
+            id: 1242,
+            name: "Karura",
+            sub_county: 208
+        }, {
+            id: 1243,
+            name: "Kasarani",
+            sub_county: 200
+        }, {
+            id: 1244,
+            name: "Kawangware",
+            sub_county: 192
+        }, {
+            id: 1245,
+            name: "Kayole Central",
+            sub_county: 194
+        }, {
+            id: 1246,
+            name: "Kayole North",
+            sub_county: 194
+        }, {
+            id: 1247,
+            name: "Kayole South",
+            sub_county: 194
+        }, {
+            id: 1248,
+            name: "Kiamaiko",
+            sub_county: 204
+        }, {
+            id: 1249,
+            name: "Kileleshwa",
+            sub_county: 192
+        }, {
+            id: 1250,
+            name: "Kitisuru",
+            sub_county: 208
+        }, {
+            id: 1251,
+            name: "Komarock",
+            sub_county: 194
+        }, {
+            id: 1252,
+            name: "Korogocho",
+            sub_county: 206
+        }, {
+            id: 1253,
+            name: "Kwa Njenga",
+            sub_county: 197
+        }, {
+            id: 1254,
+            name: "Kwa Reuben",
+            sub_county: 197
+        }, {
+            id: 1255,
+            name: "Kware",
+            sub_county: 197
+        }, {
+            id: 1256,
+            name: "Laini Saba",
+            sub_county: 201
+        }, {
+            id: 1257,
+            name: "Landimawe",
+            sub_county: 207
+        }, {
+            id: 1258,
+            name: "Lindi",
+            sub_county: 201
+        }, {
+            id: 1259,
+            name: "Lower Savannah",
+            sub_county: 195
+        }, {
+            id: 1260,
+            name: "Lucky Summer",
+            sub_county: 206
+        }, {
+            id: 1261,
+            name: "Mabatini",
+            sub_county: 204
+        }, {
+            id: 1262,
+            name: "Makina",
+            sub_county: 201
+        }, {
+            id: 1263,
+            name: "Makongeni",
+            sub_county: 203
+        }, {
+            id: 1264,
+            name: "Maringo/Hamza",
+            sub_county: 203
+        }, {
+            id: 1265,
+            name: "Mathare North",
+            sub_county: 206
+        }, {
+            id: 1266,
+            name: "Matopeni/Spring Valley",
+            sub_county: 194
+        }, {
+            id: 1267,
+            name: "Mihango",
+            sub_county: 195
+        }, {
+            id: 1268,
+            name: "Mountain View",
+            sub_county: 208
+        }, {
+            id: 1269,
+            name: "Mowlem",
+            sub_county: 198
+        }, {
+            id: 1270,
+            name: "Mutu-ini",
+            sub_county: 193
+        }, {
+            id: 1271,
+            name: "Nairobi Central",
+            sub_county: 207
+        }, {
+            id: 1272,
+            name: "Nairobi South",
+            sub_county: 207
+        }, {
+            id: 1273,
+            name: "Nairobi West",
+            sub_county: 202
+        }, {
+            id: 1274,
+            name: "Ngando",
+            sub_county: 193
+        }, {
+            id: 1275,
+            name: "Ngara",
+            sub_county: 207
+        }, {
+            id: 1276,
+            name: "Ngei",
+            sub_county: 204
+        }, {
+            id: 1277,
+            name: "Njiru",
+            sub_county: 200
+        }, {
+            id: 1278,
+            name: "Nyayo Highrise",
+            sub_county: 202
+        }, {
+            id: 1279,
+            name: "Pangani",
+            sub_county: 207
+        }, {
+            id: 1280,
+            name: "Pipeline",
+            sub_county: 197
+        }, {
+            id: 1281,
+            name: "Pumwani",
+            sub_county: 199
+        }, {
+            id: 1282,
+            name: "Riruta",
+            sub_county: 193
+        }, {
+            id: 1283,
+            name: "Roysambu",
+            sub_county: 205
+        }, {
+            id: 1284,
+            name: "Ruai",
+            sub_county: 200
+        }, {
+            id: 1285,
+            name: "Sarang'ombe",
+            sub_county: 201
+        }, {
+            id: 1286,
+            name: "South C",
+            sub_county: 202
+        }, {
+            id: 1287,
+            name: "Umoja I",
+            sub_county: 198
+        }, {
+            id: 1288,
+            name: "Umoja II",
+            sub_county: 198
+        }, {
+            id: 1289,
+            name: "Upper Savannah",
+            sub_county: 195
+        }, {
+            id: 1290,
+            name: "Utalii",
+            sub_county: 206
+        }, {
+            id: 1291,
+            name: "Utawala",
+            sub_county: 195
+        }, {
+            id: 1292,
+            name: "Uthiru/Ruthimitu",
+            sub_county: 193
+        }, {
+            id: 1293,
+            name: "Viwandani",
+            sub_county: 203
+        }, {
+            id: 1294,
+            name: "Waithaka",
+            sub_county: 193
+        }, {
+            id: 1295,
+            name: "Zimmerman",
+            sub_county: 205
+        }, {
+            id: 1296,
+            name: "Ziwani/Kariokor",
+            sub_county: 207
+        }, {
+            id: 1297,
+            name: "Bahati",
+            sub_county: 215
+        }, {
+            id: 1298,
+            name: "Dundori",
+            sub_county: 215
+        }, {
+            id: 1299,
+            name: "Kabatini",
+            sub_county: 215
+        }, {
+            id: 1300,
+            name: "Kiamaina",
+            sub_county: 215
+        }, {
+            id: 1301,
+            name: "Lanet/Umoja",
+            sub_county: 215
+        }, {
+            id: 1302,
+            name: "Murindati",
+            sub_county: 209
+        }, {
+            id: 1303,
+            name: "Nessuit",
+            sub_county: 217
+        }, {
+            id: 1304,
+            name: "Chemundu/Kapng'etunyi",
+            sub_county: 221
+        }, {
+            id: 1305,
+            name: "Kemeloi-maraba",
+            sub_county: 220
+        }, {
+            id: 1306,
+            name: "Ol'lessos",
+            sub_county: 224
+        }, {
+            id: 1307,
+            name: "Angata Barikoi",
+            sub_county: 231
+        }, {
+            id: 1308,
+            name: "Iikerin",
+            sub_county: 230
+        }, {
+            id: 1309,
+            name: "Kapsasian",
+            sub_county: 230
+        }, {
+            id: 1310,
+            name: "Keyian",
+            sub_county: 231
+        }, {
+            id: 1311,
+            name: "Kilgoris Central",
+            sub_county: 231
+        }, {
+            id: 1312,
+            name: "Kimintet",
+            sub_county: 231
+        }, {
+            id: 1313,
+            name: "Lolgorian",
+            sub_county: 231
+        }, {
+            id: 1314,
+            name: "Maji Moto/Naroosura",
+            sub_county: 228
+        }, {
+            id: 1315,
+            name: "Mogondo",
+            sub_county: 230
+        }, {
+            id: 1316,
+            name: "Ololmasani",
+            sub_county: 230
+        }, {
+            id: 1317,
+            name: "Ololulung'a",
+            sub_county: 228
+        }, {
+            id: 1318,
+            name: "Shankoe",
+            sub_county: 231
+        }, {
+            id: 1319,
+            name: "Bogichora",
+            sub_county: 236
+        }, {
+            id: 1320,
+            name: "Bokeira",
+            sub_county: 235
+        }, {
+            id: 1321,
+            name: "Bomwagamo",
+            sub_county: 235
+        }, {
+            id: 1322,
+            name: "Bonyamatuta",
+            sub_county: 236
+        }, {
+            id: 1323,
+            name: "Bosamaro",
+            sub_county: 236
+        }, {
+            id: 1324,
+            name: "Ekerenyo",
+            sub_county: 235
+        }, {
+            id: 1325,
+            name: "Esise",
+            sub_county: 232
+        }, {
+            id: 1326,
+            name: "Gachuba",
+            sub_county: 234
+        }, {
+            id: 1327,
+            name: "Gesima",
+            sub_county: 234
+        }, {
+            id: 1328,
+            name: "Itibo",
+            sub_county: 235
+        }, {
+            id: 1329,
+            name: "Kamera",
+            sub_county: 233
+        }, {
+            id: 1330,
+            name: "Kiabonyoru",
+            sub_county: 232
+        }, {
+            id: 1331,
+            name: "Magombo",
+            sub_county: 233
+        }, {
+            id: 1332,
+            name: "Magwagwa",
+            sub_county: 235
+        }, {
+            id: 1333,
+            name: "Manga",
+            sub_county: 233
+        }, {
+            id: 1334,
+            name: "Mekenene",
+            sub_county: 232
+        }, {
+            id: 1335,
+            name: "Nyamaiya",
+            sub_county: 236
+        }, {
+            id: 1336,
+            name: "Nyansiongo",
+            sub_county: 232
+        }, {
+            id: 1337,
+            name: "Rigoma",
+            sub_county: 234
+        }, {
+            id: 1339,
+            name: "Chinga",
+            sub_county: 248
+        }, {
+            id: 1340,
+            name: "Gakawa",
+            sub_county: 242
+        }, {
+            id: 1341,
+            name: "Gatarakwa",
+            sub_county: 243
+        }, {
+            id: 1342,
+            name: "Gatitu/Muruguru",
+            sub_county: 247
+        }, {
+            id: 1343,
+            name: "Iriaini",
+            sub_county: 244
+        }, {
+            id: 1344,
+            name: "Kabaru",
+            sub_county: 242
+        }, {
+            id: 1345,
+            name: "Kamakwa/Mukaro",
+            sub_county: 247
+        }, {
+            id: 1346,
+            name: "Karatina Town",
+            sub_county: 244
+        }, {
+            id: 1347,
+            name: "Karima",
+            sub_county: 248
+        }, {
+            id: 1348,
+            name: "Kiganjo/Mathari",
+            sub_county: 247
+        }, {
+            id: 1349,
+            name: "Kirimukuyu",
+            sub_county: 245
+        }, {
+            id: 1350,
+            name: "Konyu",
+            sub_county: 244
+        }, {
+            id: 1351,
+            name: "Magutu",
+            sub_county: 244
+        }, {
+            id: 1352,
+            name: "Mahiga",
+            sub_county: 248
+        }, {
+            id: 1353,
+            name: "Mugunda",
+            sub_county: 243
+        }, {
+            id: 1354,
+            name: "Mukurwe-ini Central",
+            sub_county: 246
+        }, {
+            id: 1355,
+            name: "Mukurwe-ini West",
+            sub_county: 246
+        }, {
+            id: 1356,
+            name: "Mweiga",
+            sub_county: 243
+        }, {
+            id: 1357,
+            name: "Mwiyogo/Endarasha",
+            sub_county: 243
+        }, {
+            id: 1358,
+            name: "Naromoru/Kiamathaga",
+            sub_county: 242
+        }, {
+            id: 1359,
+            name: "Ruguru",
+            sub_county: 245
+        }, {
+            id: 1360,
+            name: "Ruring'u",
+            sub_county: 247
+        }, {
+            id: 1361,
+            name: "Thegu River",
+            sub_county: 242
+        }, {
+            id: 1363,
+            name: "Lodokejek",
+            sub_county: 250
+        }, {
+            id: 1364,
+            name: "Loosuk",
+            sub_county: 250
+        }, {
+            id: 1365,
+            name: "Porro",
+            sub_county: 250
+        }, {
+            id: 1366,
+            name: "Suguta Marmar",
+            sub_county: 250
+        }, {
+            id: 1367,
+            name: "Central Alego",
+            sub_county: 253
+        }, {
+            id: 1368,
+            name: "Central Gem",
+            sub_county: 255
+        }, {
+            id: 1369,
+            name: "East Asembo",
+            sub_county: 256
+        }, {
+            id: 1370,
+            name: "East Ugenya",
+            sub_county: 257
+        }, {
+            id: 1371,
+            name: "North Alego",
+            sub_county: 253
+        }, {
+            id: 1372,
+            name: "North Gem",
+            sub_county: 255
+        }, {
+            id: 1373,
+            name: "North Ugenya",
+            sub_county: 257
+        }, {
+            id: 1374,
+            name: "North Uyoma",
+            sub_county: 256
+        }, {
+            id: 1375,
+            name: "Sidindi",
+            sub_county: 258
+        }, {
+            id: 1376,
+            name: "Sigomere",
+            sub_county: 258
+        }, {
+            id: 1377,
+            name: "South East Alego",
+            sub_county: 253
+        }, {
+            id: 1378,
+            name: "South Gem",
+            sub_county: 255
+        }, {
+            id: 1379,
+            name: "South Uyoma",
+            sub_county: 256
+        }, {
+            id: 1380,
+            name: "Ugunja",
+            sub_county: 258
+        }, {
+            id: 1381,
+            name: "Ukwala",
+            sub_county: 257
+        }, {
+            id: 1382,
+            name: "Usonga",
+            sub_county: 253
+        }, {
+            id: 1383,
+            name: "West Alego",
+            sub_county: 253
+        }, {
+            id: 1384,
+            name: "West Asembo",
+            sub_county: 256
+        }, {
+            id: 1385,
+            name: "West Ugenya",
+            sub_county: 257
+        }, {
+            id: 1386,
+            name: "West Uyoma",
+            sub_county: 256
+        }, {
+            id: 1387,
+            name: "West Yimbo",
+            sub_county: 254
+        }, {
+            id: 1388,
+            name: "Yala Township",
+            sub_county: 255
+        }, {
+            id: 1389,
+            name: "Yimbo East",
+            sub_county: 254
+        }, {
+            id: 1390,
+            name: "Bura(Mwatate)",
+            sub_county: 259
+        }, {
+            id: 1391,
+            name: "Chiakagira",
+            sub_county: 271
+        }, {
+            id: 1392,
+            name: "Chogoria",
+            sub_county: 269
+        }, {
+            id: 1393,
+            name: "Ganga",
+            sub_county: 269
+        }, {
+            id: 1394,
+            name: "Gatunga",
+            sub_county: 270
+        }, {
+            id: 1395,
+            name: "Igambang'ombe",
+            sub_county: 267
+        }, {
+            id: 1396,
+            name: "Magumoni",
+            sub_county: 266
+        }, {
+            id: 1397,
+            name: "Mariani",
+            sub_county: 267
+        }, {
+            id: 1398,
+            name: "Marimanti",
+            sub_county: 271
+        }, {
+            id: 1399,
+            name: "Mitheru",
+            sub_county: 268
+        }, {
+            id: 1400,
+            name: "Mugwe",
+            sub_county: 266
+        }, {
+            id: 1401,
+            name: "Mukothima",
+            sub_county: 270
+        }, {
+            id: 1402,
+            name: "Muthambi",
+            sub_county: 268
+        }, {
+            id: 1403,
+            name: "Mwimbi",
+            sub_county: 269
+        }, {
+            id: 1404,
+            name: "Nkondi",
+            sub_county: 271
+        }, {
+            id: 1405,
+            name: "Kang'atotha",
+            sub_county: 279
+        }, {
+            id: 1406,
+            name: "Kapedo/Napeitom",
+            sub_county: 280
+        }, {
+            id: 1407,
+            name: "Kotaruk/Lobei",
+            sub_county: 278
+        }, {
+            id: 1408,
+            name: "Lokiriama/Lorengippi",
+            sub_county: 278
+        }, {
+            id: 1409,
+            name: "Lokori/Kochodin",
+            sub_county: 280
+        }, {
+            id: 1410,
+            name: "Moi's Bridge",
+            sub_county: 288
+        }, {
+            id: 1411,
+            name: "Tulwet/Chuiyat",
+            sub_county: 286
+        }, {
+            id: 1412,
+            name: "Banja",
+            sub_county: 291
+        }, {
+            id: 1413,
+            name: "Busali",
+            sub_county: 293
+        }, {
+            id: 1414,
+            name: "Central Bunyore",
+            sub_county: 290
+        }, {
+            id: 1415,
+            name: "Central Maragoli",
+            sub_county: 294
+        }, {
+            id: 1416,
+            name: "Chavakali",
+            sub_county: 293
+        }, {
+            id: 1417,
+            name: "Emabungo",
+            sub_county: 292
+        }, {
+            id: 1418,
+            name: "Gisambai",
+            sub_county: 291
+        }, {
+            id: 1419,
+            name: "Jepkoyai",
+            sub_county: 291
+        }, {
+            id: 1420,
+            name: "Luanda South",
+            sub_county: 292
+        }, {
+            id: 1421,
+            name: "Luanda Township",
+            sub_county: 292
+        }, {
+            id: 1422,
+            name: "Lyaduywa/Izava",
+            sub_county: 293
+        }, {
+            id: 1423,
+            name: "Muhudu",
+            sub_county: 291
+        }, {
+            id: 1424,
+            name: "Mungoma",
+            sub_county: 294
+        }, {
+            id: 1425,
+            name: "Mwibona",
+            sub_county: 292
+        }, {
+            id: 1426,
+            name: "North East Bunyore",
+            sub_county: 290
+        }, {
+            id: 1427,
+            name: "North Maragoli",
+            sub_county: 293
+        }, {
+            id: 1428,
+            name: "Shamakhokho",
+            sub_county: 291
+        }, {
+            id: 1429,
+            name: "Shiru",
+            sub_county: 291
+        }, {
+            id: 1430,
+            name: "South Maragoli",
+            sub_county: 294
+        }, {
+            id: 1431,
+            name: "Tambua",
+            sub_county: 291
+        }, {
+            id: 1432,
+            name: "Wemilabi",
+            sub_county: 292
+        }, {
+            id: 1433,
+            name: "West Bunyore",
+            sub_county: 290
+        }, {
+            id: 1434,
+            name: "West Sabatia",
+            sub_county: 293
+        }, {
+            id: 1435,
+            name: "Wodanga",
+            sub_county: 293
+        }, {
+            id: 1436,
+            name: "Alale",
+            sub_county: 302
+        }, {
+            id: 1437,
+            name: "Endugh",
+            sub_county: 304
+        }, {
+            id: 1438,
+            name: "Kapchok",
+            sub_county: 302
+        }, {
+            id: 1439,
+            name: "Kasei",
+            sub_county: 302
+        }, {
+            id: 1440,
+            name: "Kiwawa",
+            sub_county: 302
+        }, {
+            id: 1441,
+            name: "Kodich",
+            sub_county: 302
+        }, {
+            id: 1442,
+            name: "Lomut",
+            sub_county: 301
+        }, {
+            id: 1443,
+            name: "Masool",
+            sub_county: 301
+        }, {
+            id: 1444,
+            name: "Mnagei",
+            sub_county: 304
+        }, {
+            id: 1445,
+            name: "Riwo",
+            sub_county: 304
+        }, {
+            id: 1446,
+            name: "Sekerr",
+            sub_county: 301
+        }, {
+            id: 1447,
+            name: "Siyoi",
+            sub_county: 304
+        }, {
+            id: 1448,
+            name: "Sook",
+            sub_county: 304
+        }, {
+            id: 1449,
+            name: "Suam",
+            sub_county: 302
+        }, {
+            id: 1450,
+            name: "Wei Wei",
+            sub_county: 301
+        }, {
+            id: 872,
+            name: "Tirioko",
+            sub_county: 3
+        }, {
+            id: 873,
+            name: "Kolowa",
+            sub_county: 3
+        }, {
+            id: 874,
+            name: "Ribkwo",
+            sub_county: 3
+        }, {
+            id: 1451,
+            name: "Ichagaki",
+            sub_county: 191
+        }, {
+            id: 1452,
+            name: "Kamahuha",
+            sub_county: 191
+        }, {
+            id: 1453,
+            name: "Kambiti",
+            sub_county: 191
+        }, {
+            id: 1454,
+            name: "Kimorori/Wempa",
+            sub_county: 191
+        }, {
+            id: 1455,
+            name: "Makuyu",
+            sub_county: 191
+        }, {
+            id: 1456,
+            name: "Kanyaluo",
+            sub_county: 714
+        }, {
+            id: 1457,
+            name: "Kendu Bay Town",
+            sub_county: 714
+        }, {
+            id: 1458,
+            name: "Kibiri",
+            sub_county: 714
+        }, {
+            id: 1459,
+            name: "North Karachuonyo",
+            sub_county: 714
+        }, {
+            id: 1460,
+            name: "Wang'chieng",
+            sub_county: 714
+        }, {
+            id: 1461,
+            name: "West Karachuonyo",
+            sub_county: 714
+        }, {
+            id: 1462,
+            name: "Kanyenya-ini",
+            sub_county: 713
+        }, {
+            id: 1463,
+            name: "Muguru",
+            sub_county: 713
+        }, {
+            id: 1464,
+            name: "Rwathia",
+            sub_county: 713
+        }, {
+            id: 1465,
+            name: "Garsen Central",
+            sub_county: 712
+        }, {
+            id: 1466,
+            name: "Garsen North",
+            sub_county: 712
+        }, {
+            id: 1467,
+            name: "Garsen South",
+            sub_county: 712
+        }, {
+            id: 1468,
+            name: "Garsen West",
+            sub_county: 712
+        }, {
+            id: 1469,
+            name: "Kipini East",
+            sub_county: 712
+        }, {
+            id: 1470,
+            name: "Kipini West",
+            sub_county: 712
+        }, {
+            id: 1471,
+            name: "Bwake/Luuya",
+            sub_county: 716
+        }, {
+            id: 1472,
+            name: "Kabuchai/Chwele",
+            sub_county: 716
+        }, {
+            id: 1473,
+            name: "Lwandanyi",
+            sub_county: 715
+        }, {
+            id: 1474,
+            name: "Malakisi/South Kulisiru",
+            sub_county: 715
+        }, {
+            id: 1475,
+            name: "Mbakalo",
+            sub_county: 717
+        }, {
+            id: 1476,
+            name: "Milima",
+            sub_county: 717
+        }, {
+            id: 1477,
+            name: "Mukuyuni",
+            sub_county: 716
+        }, {
+            id: 1478,
+            name: "Naitiri/Kabuyefwe",
+            sub_county: 717
+        }, {
+            id: 1479,
+            name: "Namwela",
+            sub_county: 715
+        }, {
+            id: 1480,
+            name: "Ndalu",
+            sub_county: 717
+        }, {
+            id: 1481,
+            name: "Soysambu/Mitua",
+            sub_county: 717
+        }, {
+            id: 1482,
+            name: "Tongaren",
+            sub_county: 717
+        }, {
+            id: 1483,
+            name: "West Nalondo",
+            sub_county: 716
+        }, {
+            id: 1484,
+            name: "Iichamus",
+            sub_county: 5
+        }, {
+            id: 1485,
+            name: "Marigat",
+            sub_county: 5
+        }, {
+            id: 1486,
+            name: "Mochongoi",
+            sub_county: 5
+        }, {
+            id: 1487,
+            name: "Mukutani",
+            sub_county: 5
+        }, {
+            id: 1488,
+            name: "Huruma  - NBI",
+            sub_county: 204
+        }, {
+            id: 1489,
+            name: "Gaturi North",
+            sub_county: 34
+        }, {
+            id: 1490,
+            name: "Hulugho",
+            sub_county: 42
+        }, {
+            id: 1491,
+            name: "Sangailu",
+            sub_county: 42
+        }, {
+            id: 1492,
+            name: "Central",
+            sub_county: 714
+        }, {
+            id: 1493,
+            name: "Bunyala Central",
+            sub_county: 71
+        }, {
+            id: 1494,
+            name: "Bunyala West",
+            sub_county: 71
+        }, {
+            id: 1495,
+            name: "Khalaba",
+            sub_county: 68
+        }, {
+            id: 1496,
+            name: "Githiga",
+            sub_county: 81
+        }, {
+            id: 1497,
+            name: "Chasimba",
+            sub_county: 94
+        }, {
+            id: 1498,
+            name: "Kaloleni",
+            sub_county: 92
+        }, {
+            id: 1499,
+            name: "Kambe/Ribe",
+            sub_county: 97
+        }, {
+            id: 1500,
+            name: "Kayafungo",
+            sub_county: 92
+        }, {
+            id: 1501,
+            name: "Mtepeni",
+            sub_county: 94
+        }, {
+            id: 1502,
+            name: "Mwanamwinga",
+            sub_county: 92
+        }, {
+            id: 1503,
+            name: "Ruruma",
+            sub_county: 97
+        }, {
+            id: 1504,
+            name: "Shimo La Tewa",
+            sub_county: 94
+        }, {
+            id: 1505,
+            name: "Kalama",
+            sub_county: 137
+        }, {
+            id: 1506,
+            name: "Kola",
+            sub_county: 137
+        }, {
+            id: 1507,
+            name: "Nginda",
+            sub_county: 191
+        }, {
+            id: 1508,
+            name: "Huruma",
+            sub_county: 204
+        }, {
+            id: 1509,
+            name: "Mugumo-ini",
+            sub_county: 202
+        }, {
+            id: 1510,
+            name: "Mwiki",
+            sub_county: 200
+        }, {
+            id: 1511,
+            name: "Viwandani",
+            sub_county: 213
+        }, {
+            id: 1512,
+            name: "Central",
+            sub_county: 239
+        }, {
+            id: 1513,
+            name: "Central Sakwa",
+            sub_county: 254
+        }, {
+            id: 1514,
+            name: "East Gem",
+            sub_county: 255
+        }, {
+            id: 1515,
+            name: "North Sakwa",
+            sub_county: 254
+        }, {
+            id: 1516,
+            name: "South Sakwa",
+            sub_county: 254
+        }, {
+            id: 1517,
+            name: "West Gem",
+            sub_county: 255
+        }, {
+            id: 1518,
+            name: "West Sakwa",
+            sub_county: 254
+        }, {
+            id: 1519,
+            name: "Bura",
+            sub_county: 263
+        }, {
+            id: 1520,
+            name: "Kibish",
+            sub_county: 277
+        }]
