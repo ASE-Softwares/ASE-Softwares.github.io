@@ -12,12 +12,15 @@
   <!-- Styles -->
   <link href="/hotel/assets/css/page.min.css" rel="stylesheet">
   <link href="/hotel/assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="/hotel/assets/css/styled.css">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" href="/hotel/assets/img/apple-touch-icon.png">
   <link rel="icon" href="/hotel/assets/img/favicon.ico">
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
     integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
 </head>
 
 <body>
@@ -461,19 +464,29 @@
       | CTA
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-    <section class="section py-7" style="background-color: #7cebae">
-      <div class="container-fluid">
-        <header class="section-header">
-          <h5 class="h5 text-beige"><strong>OUR CLIENTS.</strong></h5>
-        </header>
-        <!-- <div class="row gap-y align-items-center justify-content-centre">
-          <div class="col-md-1 text-center text-md-right">
-            <img src="/assets/images/client.png" alt="" class="img img-fluid rounded-circle">
+    <section class="client">
+      <div class="container">
+        <div class="row">
+
+          <div class="section-title">
+            <h2> Partners : </h2>
           </div>
-          <div class="col-md-1 text-center text-md-right">
-            <img src="/assets/images/client.png" alt="" class="img img-fluid rounded-circle">
+
+          <div class="carousel-client">
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo1.png"></div>
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo2.png"></div>
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo3.png"></div>
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo1.png"></div>
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo2.png"></div>
+            <div class="slide"><img
+                src="https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/slider-logo3.png"></div>
           </div>
-        </div> -->
+        </div>
       </div>
     </section>
 
@@ -547,6 +560,20 @@
 
 
   <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.js"></script>
+  <script defer>
+    /**********************/
+    /*	Client carousel   */
+    /**********************/
+    $('.carousel-client').bxSlider({
+      auto: true,
+      slideWidth: 234,
+      minSlides: 2,
+      maxSlides: 5,
+      controls: false
+    });
+  </script>
   <script src="/hotel/assets/js/page.min.js"></script>
   <script src="/hotel/assets/js/script.js"></script>
 
