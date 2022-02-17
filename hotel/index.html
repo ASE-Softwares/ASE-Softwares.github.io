@@ -194,12 +194,65 @@
           </div>
 
           <div class="col-md-3 text-center text-md-right">
-            <a class="btn btn-lg btn-round btn-light" target="_blank" href="https://raosys.herokuapp.com/">Try the
-              software now!</a>
+            <button class="btn btn-lg btn-round btn-light" data-toggle="modal" data-target="#infoModal" target="_blank"
+              href="#">Try the
+              software now!</button>
           </div>
         </div>
       </div>
     </section>
+
+    <!-- Modal -->
+    <div class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-labelledby="modelTitleId"
+      aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">System Credentials</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container-fluid">
+              <p>To test our System use the following credentials for different accounts. Please do not enter personal
+                data on the system, nor change passwords</p>
+              <table class="table table-hover table-stripped table-responsive">
+                <thead class="">
+                  <tr>
+                    <th>Account Name</th>
+                    <th>Username / Email</th>
+                    <th>Password</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td scope="row">Manager</td>
+                    <td>manager@hotel.com</td>
+                    <td>password</td>
+                  </tr>
+                </tbody>
+              </table>
+              <span>We are providing more credentials information as days go on, stay tuned</span>
+              <a href="http://raosys-hotel.herokuapp.com/login" target="_blank">Proceed to web version</a>
+            </div>
+          </div>
+          <!-- <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save</button>
+          </div> -->
+        </div>
+      </div>
+    </div>
+
+    <!-- <script>
+      $('#exampleModal').on('show.bs.modal', event => {
+        var button = $(event.relatedTarget);
+        var modal = $(this);
+        // Use above variables to manipulate the DOM
+
+      });
+    </script> -->
 
 
     <!--
